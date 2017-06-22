@@ -31,7 +31,7 @@
 ### Face Detection 
 1. - [x] Kaipeng Zhang, et al. "**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**." 	arXiv:1604.02878 (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf) (**MTCNN**)
 
-1. - [ ] Peiyun Hu, Deva Ramanan. "**Finding Tiny Faces**." arXiv:1612.04402 (2016) [[pdf]](https://arxiv.org/pdf/1612.04402.pdf) (**Tiny Face**)
+1. - [X] Peiyun Hu, Deva Ramanan. "**Finding Tiny Faces**." arXiv:1612.04402 (2016) [[pdf]](https://arxiv.org/pdf/1612.04402.pdf) (**Tiny Face**)
 
 
 
