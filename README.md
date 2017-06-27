@@ -29,9 +29,13 @@
 1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
 
 ### Face Detection 
+1. - [ ] Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection[J] (2015).[[pdf]](https://arxiv.org/abs/1508.01292)(**Cascade CNN**)
+
 1. - [x] Kaipeng Zhang, et al. "**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**." 	arXiv:1604.02878 (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf) (**MTCNN**)
 
 1. - [X] Peiyun Hu, Deva Ramanan. "**Finding Tiny Faces**." arXiv:1612.04402 (2016) [[pdf]](https://arxiv.org/pdf/1612.04402.pdf) (**Tiny Face**)
 
+1. - [ ] Hao Wang, Zhifeng Li, et al. "**Face R-CNN**."	arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/abs/1706.01061)
+(**Face R-CNN**)
 
 
