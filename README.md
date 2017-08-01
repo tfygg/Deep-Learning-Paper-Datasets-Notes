@@ -3,7 +3,7 @@
 ## Base
 1. - [ ] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
 
-1. - [ ] Zeiler, Matthew D., and R. Fergus. "**Visualizing and Understanding Convolutional Networks**." 	arXiv:1311.2901 (2013). [[pdf]](https://arxiv.org/abs/1311.2901) (**VUConvNet**) 
+1. - [ ] Zeiler, Matthew D., and R. Fergus. "**Visualizing and Understanding Convolutional Networks**." 	arXiv:1311.2901 (2013). [[pdf]](https://arxiv.org/abs/1311.2901) (**ZFNet**) 
 
 1. - [ ] Simonyan, Karen, and Andrew Zisserman. "**Very deep convolutional networks for large-scale image recognition**." arXiv preprint arXiv:1409.1556 (2014). [[pdf]](https://arxiv.org/pdf/1409.1556) (**VGGNet**)
 
