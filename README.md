@@ -15,11 +15,13 @@
 
 
 ## Object Detection
-1. - [ ] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
+1. - [ ] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." Proceedings of the IEEE conference on computer vision and pattern recognition. (2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
+
+1. - [ ] He, K., et al. "**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**." IEEE Transactions on Pattern Analysis & Machine Intelligence. (2015). [[pdf]](https://arxiv.org/abs/1406.4729) (**SPPNet**) 
 
 1. - [ ] Girshick, Ross. "**Fast r-cnn**." Proceedings of the IEEE International Conference on Computer Vision. 2015. [[pdf]](https://pdfs.semanticscholar.org/8f67/64a59f0d17081f2a2a9d06f4ed1cdea1a0ad) (**Fast RCNN**) 
 
-1. - [ ] Ren, Shaoqing, et al. "**Faster R-CNN: Towards real-time object detection with region proposal networks**." Advances in neural information processing systems. 2015. [[pdf]](https://arxiv.org/pdf/1506.01497.pdf) (**Faster RCNN**)
+1. - [x] Ren, Shaoqing, et al. "**Faster R-CNN: Towards real-time object detection with region proposal networks**." Advances in neural information processing systems. 2015. [[pdf]](https://arxiv.org/pdf/1506.01497.pdf) (**Faster RCNN**)
 
 1. - [ ] Redmon, Joseph, et al. "**You only look once: Unified, real-time object detection**." arXiv preprint arXiv:1506.02640 (2015). [[pdf]](http://homes.cs.washington.edu/~ali/papers/YOLO) (**YOLO**)
 
@@ -35,6 +37,8 @@
 1. - [ ] Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection[J] (2015).[[pdf]](https://arxiv.org/abs/1508.01292)(**Cascade CNN**)
 
 1. - [x] Kaipeng Zhang, et al. "**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**." 	arXiv:1604.02878 (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**MTCNN**)
+
+1. - [ ] Qin, Hongwei, et al. "**Joint Training of Cascaded CNN for Face Detection**." Computer Vision and Pattern Recognition IEEE (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**FaceCraft**)
 
 1. - [x] Rajeev Ranjan, Vishal M. Patel, Rama Chellappa. "**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition**." ArXiv report(2016). [[pdf]](https://arxiv.org/abs/1603.01249) (**HyperFace**) 
 
