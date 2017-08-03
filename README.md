@@ -33,6 +33,9 @@
 
 1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
 
+**Review**
+
+1. - [ ] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016).. [[pdf]](https://arxiv.org/abs/1611.10012) 
 
 ## Face 
 ### Detection & Landmarks
@@ -44,11 +47,11 @@
 
 1. - [x] Rajeev Ranjan, Vishal M. Patel, Rama Chellappa. "**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition**." ArXiv report(2016). [[pdf]](https://arxiv.org/abs/1603.01249) (**HyperFace**) 
 
-1. - [ ] Jiang, Huaizu, and E. Learned-Miller. "**Face Detection with the Faster R-CNN**." (2016).[[pdf]](https://arxiv.org/abs/1606.03473) (**Face FasterRCNN**)
+1. - [x] Jiang, Huaizu, and E. Learned-Miller. "**Face Detection with the Faster R-CNN**." (2016).[[pdf]](https://arxiv.org/abs/1606.03473) (**Face FasterRCNN**)
 
 1. - [x] Peiyun Hu, Deva Ramanan. "**Finding Tiny Faces**." arXiv:1612.04402 (2016) [[pdf]](https://arxiv.org/pdf/1612.04402) (**Tiny Face**)
 
-1. - [ ] Sun, Xudong, P. Wu, and S. C. H. Hoi. "**Face Detection using Deep Learning: An Improved Faster RCNN Approach**." (2017).[[pdf]](https://arxiv.org/abs/1701.08289) (**DeepIR**)
+1. - [x] Sun, Xudong, P. Wu, and S. C. H. Hoi. "**Face Detection using Deep Learning: An Improved Faster RCNN Approach**." (2017).[[pdf]](https://arxiv.org/abs/1701.08289) (**DeepIR**)
 
 1. - [x] Hao Wang, Zhifeng Li, et al. "**Face R-CNN**."	arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/abs/1706.01061)
 (**Face R-CNN**)
