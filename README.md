@@ -3,9 +3,9 @@
 ## Base
 1. - [ ] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
 
-1. - [ ] Zeiler, Matthew D., and R. Fergus. "**Visualizing and Understanding Convolutional Networks**." 	arXiv:1311.2901 (2013). [[pdf]](https://arxiv.org/abs/1311.2901) (**ZFNet**) 
+1. - [x] Zeiler, Matthew D., and R. Fergus. "**Visualizing and Understanding Convolutional Networks**." 	arXiv:1311.2901 (2013). [[pdf]](https://arxiv.org/abs/1311.2901) (**ZFNet**) 
 
-1. - [ ] Simonyan, Karen, and Andrew Zisserman. "**Very deep convolutional networks for large-scale image recognition**." arXiv preprint arXiv:1409.1556 (2014). [[pdf]](https://arxiv.org/pdf/1409.1556) (**VGGNet**)
+1. - [x] Simonyan, Karen, and Andrew Zisserman. "**Very deep convolutional networks for large-scale image recognition**." arXiv preprint arXiv:1409.1556 (2014). [[pdf]](https://arxiv.org/pdf/1409.1556) (**VGGNet**)
 
 1. - [ ] Szegedy, Christian, et al. "**Going deeper with convolutions**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[pdf]](https://arxiv.org/abs/1409.4842) (**GoogLeNet/Inception**) 
 
@@ -15,7 +15,7 @@
 
 1. - [ ] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
 
-1. - [ ]Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
+1. - [ ] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
 
 
 ## Object Detection
