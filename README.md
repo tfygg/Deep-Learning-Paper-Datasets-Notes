@@ -9,6 +9,8 @@
 
 1. - [ ] Szegedy, Christian, et al. "**Going deeper with convolutions**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[pdf]](https://arxiv.org/abs/1409.4842) (**GoogLeNet/Inception**) 
 
+1. - [ ] Srivastava, Rupesh Kumar, K. Greff, and J. Schmidhuber. "**Highway Networks**." Computer Science (2015). [[pdf]](https://arxiv.org/abs/1505.00387) (**Highway Networks**) 
+
 1. - [ ] He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385) (**ResNet**)
 
 1. - [ ] Huang, Gao, et al. "**Densely Connected Convolutional Networks**." 	arXiv:1608.06993 (2016). [[pdf]](https://arxiv.org/pdf/1608.06993) (**DenseNet**)
