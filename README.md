@@ -13,11 +13,15 @@
 
 1. - [ ] Huang, Gao, et al. "**Densely Connected Convolutional Networks**." 	arXiv:1608.06993 (2016). [[pdf]](https://arxiv.org/pdf/1608.06993) (**DenseNet**)
 
+1. - [ ] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
+
+1. - [ ]Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
+
 
 ## Object Detection
 1. - [ ] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." Proceedings of the IEEE conference on computer vision and pattern recognition. (2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
 
-1. - [ ] He, K., et al. "**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**." IEEE Transactions on Pattern Analysis & Machine Intelligence. (2015). [[pdf]](https://arxiv.org/abs/1406.4729) (**SPPNet**) 
+1. - [ ] He, K., et al. "**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**." IEEE Transactions on Pattern Analysis & Machine Intelligence. (2014). [[pdf]](https://arxiv.org/abs/1406.4729) (**SPPNet**) 
 
 1. - [ ] Girshick, Ross. "**Fast r-cnn**." Proceedings of the IEEE International Conference on Computer Vision. 2015. [[pdf]](https://pdfs.semanticscholar.org/8f67/64a59f0d17081f2a2a9d06f4ed1cdea1a0ad) (**Fast RCNN**) 
 
