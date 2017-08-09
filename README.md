@@ -33,6 +33,8 @@
 
 1. - [ ] Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [[pdf]](http://arxiv.org/pdf/1512.02325)(**SSD**)
 
+1. - [ ] Hong, Sanghoon, et al. "PVANet: Lightweight Deep Neural Networks for Real-time Object Detection." arXiv:1611.08588 (2016). [[pdf]](https://arxiv.org/abs/1611.08588)(**PVANet**)
+
 1. - [ ] Dai, Jifeng, et al. "**R-FCN: Object Detection via Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) (**R-FCN**)
 
 1. - [ ] Lin, Tsung Yi, et al. "**Feature Pyramid Networks for Object Detection**." (2016). [[pdf]](https://arxiv.org/abs/1612.03144) (**FPN**)
