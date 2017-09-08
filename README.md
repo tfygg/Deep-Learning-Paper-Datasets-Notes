@@ -7,7 +7,7 @@
 
 1. - [x] Simonyan, Karen, and Andrew Zisserman. "**Very deep convolutional networks for large-scale image recognition**." arXiv preprint arXiv:1409.1556 (2014). [[pdf]](https://arxiv.org/pdf/1409.1556) (**VGGNet**)
 
-1. - [ ] Szegedy, Christian, et al. "**Going deeper with convolutions**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[pdf]](https://arxiv.org/abs/1409.4842) (**GoogLeNet/Inception**) 
+1. - [x] Szegedy, Christian, et al. "**Going deeper with convolutions**." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[pdf]](https://arxiv.org/abs/1409.4842) (**GoogLeNet/Inception**) 
 
 1. - [ ] Srivastava, Rupesh Kumar, K. Greff, and J. Schmidhuber. "**Highway Networks**." Computer Science (2015). [[pdf]](https://arxiv.org/abs/1505.00387) (**Highway Networks**) 
 
@@ -66,8 +66,13 @@
 
 1. - [x] Yang, Shuo, et al. "**Face Detection through Scale-Friendly Deep Convolutional Networks**." (2017).[[pdf]](https://arxiv.org/abs/1706.02863)(**Scale Face**)
 
-1. - [x] Zekun Hao, Yu Liu, et al. "**Scale-Aware Face Detection**" arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/pdf/1706.09876)(**SAFD**)
+1. - [x] Zekun Hao, Yu Liu, et al. "**Scale-Aware Face Detection**." arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/pdf/1706.09876)(**SAFD**)
 
+1. - [ ] Najibi, Mahyar, et al. "**SSH: Single Stage Headless Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
+
+1. - [ ] Zhang, Shifeng, et al. "**S3FD: Single Shot Scale-invariant Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05237)(**S3FD**)
+
+1. - [x] Zhang, Shifeng, et al. "**FaceBoxes: A CPU Real-time Face Detector with High Accuracy**."  IJCB(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
 
 ### Recognition
 1. - [ ] Xiang Wu, Ran He, et al. "**A Light CNN for Deep Face Representation with Noisy Labels**." arXiv:1511.02683(2015).[[pdf]](https://arxiv.org/abs/1511.02683v3) (**Lignt CNN**)
