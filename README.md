@@ -41,6 +41,10 @@
 
 1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
 
+1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
+
+1. - [x] Lin, Tsung Yi, et al. "**Focal Loss for Dense Object Detection**." (2017). [[pdf]](https://arxiv.org/abs/1708.02002) (**Focal Loss**)
+
 **Review**
 
 1. - [ ] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016).. [[pdf]](https://arxiv.org/abs/1611.10012) 
@@ -68,7 +72,7 @@
 
 1. - [x] Zekun Hao, Yu Liu, et al. "**Scale-Aware Face Detection**." arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/pdf/1706.09876)(**SAFD**)
 
-1. - [ ] Najibi, Mahyar, et al. "**SSH: Single Stage Headless Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
+1. - [ ] Najibi, Mahyar, et al. "**SSH: Single Stage Headless Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**SSH**)
 
 1. - [ ] Zhang, Shifeng, et al. "**S3FD: Single Shot Scale-invariant Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05237)(**S3FD**)
 
