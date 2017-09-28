@@ -1,7 +1,7 @@
 # Deep-Learning-Papers-List
 
 ## Base
-1. - [ ] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
+1. - [x] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
 
 1. - [x] Zeiler, Matthew D., and R. Fergus. "**Visualizing and Understanding Convolutional Networks**." 	arXiv:1311.2901 (2013). [[pdf]](https://arxiv.org/abs/1311.2901) (**ZFNet**) 
 
@@ -37,9 +37,7 @@
 
 1. - [ ] Dai, Jifeng, et al. "**R-FCN: Object Detection via Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) (**R-FCN**)
 
-1. - [ ] Lin, Tsung Yi, et al. "**Feature Pyramid Networks for Object Detection**." (2016). [[pdf]](https://arxiv.org/abs/1612.03144) (**FPN**)
-
-1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
+1. - [x] Lin, Tsung Yi, et al. "**Feature Pyramid Networks for Object Detection**." (2016). [[pdf]](https://arxiv.org/abs/1612.03144) (**FPN**)
 
 1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
 
@@ -47,11 +45,11 @@
 
 **Review**
 
-1. - [ ] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016).. [[pdf]](https://arxiv.org/abs/1611.10012) 
+1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016).. [[pdf]](https://arxiv.org/abs/1611.10012) 
 
 ## Face 
 ### Detection & Landmarks
-1. - [ ] Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection[J] (2015).[[pdf]](https://arxiv.org/abs/1508.01292)(**Cascade CNN**)
+1. - [x] Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection[J] (2015).[[pdf]](https://arxiv.org/abs/1508.01292)(**Cascade CNN**)
 
 1. - [x] Kaipeng Zhang, et al. "**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**." 	arXiv:1604.02878 (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**MTCNN**)
 
@@ -81,7 +79,7 @@
 ### Recognition
 1. - [ ] Xiang Wu, Ran He, et al. "**A Light CNN for Deep Face Representation with Noisy Labels**." arXiv:1511.02683(2015).[[pdf]](https://arxiv.org/abs/1511.02683v3) (**Lignt CNN**)
 
-1. - [ ] Wen, Yandong, et al. "**A Discriminative Feature Learning Approach for Deep Face Recognition**." ECCV(2016). [[pdf]](http://www.eccv2016.org/files/posters/P-3B-20.pdf) (**CenterFace**)
+1. - [x] Wen, Yandong, et al. "**A Discriminative Feature Learning Approach for Deep Face Recognition**." ECCV(2016). [[pdf]](http://www.eccv2016.org/files/posters/P-3B-20.pdf) (**CenterFace**)
 
 1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." arXiv:1704.06369(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
