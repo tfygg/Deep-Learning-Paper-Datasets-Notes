@@ -48,7 +48,7 @@
 1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016).. [[pdf]](https://arxiv.org/abs/1611.10012) 
 
 ## Face 
-### Detection & Landmarks
+### Detection 
 1. - [x] Li H, Lin Z, Shen X, et al. A convolutional neural network cascade for face detection[J] (2015).[[pdf]](https://arxiv.org/abs/1508.01292)(**Cascade CNN**)
 
 1. - [x] Kaipeng Zhang, et al. "**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**." 	arXiv:1604.02878 (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**MTCNN**)
@@ -75,6 +75,15 @@
 1. - [ ] Zhang, Shifeng, et al. "**S3FD: Single Shot Scale-invariant Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05237)(**S3FD**)
 
 1. - [x] Zhang, Shifeng, et al. "**FaceBoxes: A CPU Real-time Face Detector with High Accuracy**."  IJCB(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
+
+### Alignment
+1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "Facial landmark detection by deep multi-task learning." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
+
+1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "Learning Deep Representation for Face Alignment with Auxiliary Attributes." TPAMI(2015). [[pdf]](https://arxiv.org/abs/1408.3967)(**FAAA**)
+
+1. - [x] Wu, Yue, and T. Hassner. "Facial Landmark Detection with Tweaked Convolutional Neural Networks." Computer Science(2015). [[pdf]](https://arxiv.org/abs/1511.04031)(**Vanilla CNN**)
+
+1. - [x] Adrian Bulat and Georgios Tzimiropoulos. "How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.07332)(**FAN**)
 
 ### Recognition
 1. - [ ] Xiang Wu, Ran He, et al. "**A Light CNN for Deep Face Representation with Noisy Labels**." arXiv:1511.02683(2015).[[pdf]](https://arxiv.org/abs/1511.02683v3) (**Lignt CNN**)
