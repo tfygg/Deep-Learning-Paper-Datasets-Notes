@@ -36,6 +36,7 @@
 
 
 ## Object Detection
+## 2D
 1. - [x] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." CVPR(2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
 
 1. - [x] He, K., et al. "**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**." IEEE Transactions on Pattern Analysis & Machine Intelligence. (2014). [[pdf]](https://arxiv.org/abs/1406.4729) (**SPPNet**) 
@@ -60,7 +61,11 @@
 
 **Review**
 
-1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016).. [[pdf]](https://arxiv.org/abs/1611.10012) 
+1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016). [[pdf]](https://arxiv.org/abs/1611.10012) 
+
+### 3D 
+1. - [ ] Chen, Xiaozhi, et al. "**Monocular 3D Object Detection for Autonomous Driving, 2016:2147-2156.**." CVPR(2016). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf) 
+
 
 ## Face 
 ### Detection 
