@@ -9,18 +9,22 @@
 
 1. - [x] Szegedy, Christian, et al. "**Going deeper with convolutions**." ICCV(2015). [[pdf]](https://arxiv.org/abs/1409.4842) (**GoogLeNet/Inception**) 
 
-1. - [ ] Srivastava, Rupesh Kumar, K. Greff, and J. Schmidhuber. "**Highway Networks**." Computer Science (2015). [[pdf]](https://arxiv.org/abs/1505.00387) (**Highway Networks**) 
+1. - [x] Srivastava, Rupesh Kumar, K. Greff, and J. Schmidhuber. "**Highway Networks**." Computer Science (2015). [[pdf]](https://arxiv.org/abs/1505.00387) (**Highway Networks**) 
 
 1. - [x] He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385) (**ResNet**)
 
-1. - [x] Huang, Gao, et al. "**Densely Connected Convolutional Networks**." 	arXiv:1608.06993 (2016). [[pdf]](https://arxiv.org/pdf/1608.06993) (**DenseNet**)
+1. - [x] Huang, Gao, et al. "**Densely Connected Convolutional Networks**." CVPR(2017). [[pdf]](https://arxiv.org/pdf/1608.06993) (**DenseNet**)
+
+1. - [x] Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng et al. "**Dual Path Networks**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1707.01629) (**DPN**)
 
 
 ## Network Compression
-### ConvNet Framework
-1. - [ ] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
+### ConvNet
+1. - [x] Forrest N. Iandola, Song Han, et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**." (2017). [[pdf]](https://arxiv.org/abs/1602.07360) (**SqueezeNet**)
 
-1. - [ ] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
+1. - [x] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
+
+1. - [x] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
 
 ### Distilling
 1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
