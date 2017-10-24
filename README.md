@@ -9,7 +9,13 @@
 
 1. - [x] Szegedy, Christian, et al. "**Going deeper with convolutions**." ICCV(2015). [[pdf]](https://arxiv.org/abs/1409.4842) (**GoogLeNet/Inception**) 
 
+1. - [x] Szegedy, Christian, et al. "**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**." (2015). [[pdf]](https://arxiv.org/abs/1502.03167) (**InceptionV2/Batch Normalization**) 
+
+1. - [x] Christian Szegedy, Vincent Vanhoucke, et al. "**Rethinking the Inception Architecture for Computer Vision**." (2015). [[pdf]](https://arxiv.org/abs/1512.00567) (**InceptionV3**) 
+
 1. - [x] Srivastava, Rupesh Kumar, K. Greff, and J. Schmidhuber. "**Highway Networks**." Computer Science (2015). [[pdf]](https://arxiv.org/abs/1505.00387) (**Highway Networks**) 
+
+1. - [x] Christian Szegedy, Vincent Vanhoucke, et al. "**Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning**." (2016). [[pdf]](https://arxiv.org/abs/1602.07261) (**InceptionV4**) 
 
 1. - [x] He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385) (**ResNet**)
 
