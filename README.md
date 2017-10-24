@@ -49,6 +49,8 @@
 
 1. - [x] Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [[pdf]](http://arxiv.org/pdf/1512.02325)(**SSD**)
 
+1. - [x] Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, et al. "**Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**." CVPR (2016). [[pdf]](https://arxiv.org/abs/1512.04143)(**ION**)
+
 1. - [x] Tao Kong, Anbang Yao, Yurong Chen, et al. "**HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection**." CVPR (2016). [[pdf]](https://arxiv.org/abs/1604.00600)(**HyperNet**)
 
 1. - [x] Hong, Sanghoon, et al. "**PVANet: Lightweight Deep Neural Networks for Real-time Object Detection**." arXiv:1611.08588 (2016). [[pdf]](https://arxiv.org/abs/1611.08588)(**PVANet**)
