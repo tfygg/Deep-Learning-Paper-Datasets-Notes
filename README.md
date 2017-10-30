@@ -100,7 +100,9 @@
 
 1. - [x] Zekun Hao, Yu Liu, et al. "**Scale-Aware Face Detection**." arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/pdf/1706.09876)(**SAFD**)
 
-1. - [ ] Najibi, Mahyar, et al. "**SSH: Single Stage Headless Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**SSH**)
+1. - [ ] Liu, Yu, et al. "**Recurrent Scale Approximation for Object Detection in CNN**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1707.09531)(**RSA**)
+
+1. - [x] Najibi, Mahyar, et al. "**SSH: Single Stage Headless Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**SSH**)
 
 1. - [ ] Zhang, Shifeng, et al. "**S3FD: Single Shot Scale-invariant Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05237)(**S3FD**)
 
