@@ -23,24 +23,6 @@
 
 1. - [x] Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng et al. "**Dual Path Networks**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1707.01629) (**DPN**)
 
-
-## Network Compression
-### ConvNet
-1. - [x] Forrest N. Iandola, Song Han, et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**." (2017). [[pdf]](https://arxiv.org/abs/1602.07360) (**SqueezeNet**)
-
-1. - [x] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
-
-1. - [x] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
-
-### Distilling
-1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
-
-1. - [x] Zhou, Guorui, et al. "**Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net**." (2017). [[pdf]](Csc.kth.se/~vahidk/face_ert.html) (**Launching**)
-
-### Pruning
-
-
-
 ## Object Detection
 ## 2D
 1. - [x] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." CVPR(2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
@@ -76,6 +58,23 @@
 ### 3D 
 1. - [ ] Chen, Xiaozhi, et al. "**Monocular 3D Object Detection for Autonomous Driving, 2016:2147-2156.**." CVPR(2016). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf) 
 
+## Network Compression
+### ConvNet
+1. - [x] Forrest N. Iandola, Song Han, et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**." (2017). [[pdf]](https://arxiv.org/abs/1602.07360) (**SqueezeNet**)
+
+1. - [x] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
+
+1. - [x] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
+
+### Distilling
+1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
+
+1. - [x] Zhou, Guorui, et al. "**Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net**." (2017). [[pdf]](Csc.kth.se/~vahidk/face_ert.html) (**Launching**)
+
+1. - [x] Q Li, S Jin, J Yan et al. "**Mimicking Very Efficient Network for Object Detection**." CVPR(2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf) (**Mimicking**)
+
+
+### Pruning
 
 ## Face 
 ### Detection 
@@ -127,4 +126,5 @@
 1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." arXiv:1704.06369(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
 1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+
 
