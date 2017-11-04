@@ -1,6 +1,6 @@
 # Deep-Learning-Papers-List
 
-## Base
+## Classification
 1. - [x] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
 
 1. - [x] Zeiler, Matthew D., and R. Fergus. "**Visualizing and Understanding Convolutional Networks**." 	arXiv:1311.2901 (2013). [[pdf]](https://arxiv.org/abs/1311.2901) (**ZFNet**) 
@@ -23,7 +23,7 @@
 
 1. - [x] Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng et al. "**Dual Path Networks**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1707.01629) (**DPN**)
 
-## Object Detection
+## Detection
 ## 2D
 1. - [x] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." CVPR(2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
 
@@ -47,16 +47,23 @@
 
 1. - [x] Lin, Tsung Yi, et al. "**Feature Pyramid Networks for Object Detection**." (2016). [[pdf]](https://arxiv.org/abs/1612.03144) (**FPN**)
 
-1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
-
 1. - [x] Lin, Tsung Yi, et al. "**Focal Loss for Dense Object Detection**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.02002) (**Focal Loss**)
 
 **Review**
-
 1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016). [[pdf]](https://arxiv.org/abs/1611.10012) 
 
 ### 3D 
 1. - [ ] Chen, Xiaozhi, et al. "**Monocular 3D Object Detection for Autonomous Driving, 2016:2147-2156.**." CVPR(2016). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf) 
+
+## Segmentation
+## Segmantic
+1. - [ ] Xiaoxiao Li, Ziwei Liu, et al. "**Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade**." arXiv preprint (2017). [[pdf]](https://arxiv.org/abs/1704.08545) (**DLC**)
+
+1. - [ ] He, Gkioxari, et al. "**ICNet for Real-Time Semantic Segmentation on High-Resolution Images**." arXiv preprint (2017). [[pdf]](https://arxiv.org/abs/1704.08545) (**ICNet**)
+
+## Instance
+1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
+
 
 ## Network Compression
 ### ConvNet
