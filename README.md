@@ -80,8 +80,12 @@
 
 1. - [x] Q Li, S Jin, J Yan et al. "**Mimicking Very Efficient Network for Object Detection**." CVPR(2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf) (**Mimicking**)
 
-
 ### Pruning
+
+
+**Review**
+1. - [x] Yu Cheng, Duo Wang, et al. "**A Survey of Model Compression and Acceleration for Deep Neural Networks**." IEEE Signal Processing Magazine(2017). [[pdf]](https://arxiv.org/abs/1710.09282) 
+
 
 ## Face 
 ### Detection 
@@ -89,7 +93,7 @@
 
 1. - [x] Kaipeng Zhang, et al. "**Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks**." 	arXiv:1604.02878 (2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**MTCNN**)
 
-1. - [ ] Qin, Hongwei, et al. "**Joint Training of Cascaded CNN for Face Detection**." CVPR worwshop(2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**FaceCraft**)
+1. - [x] Qin, Hongwei, et al. "**Joint Training of Cascaded CNN for Face Detection**." CVPR worwshop(2016). [[pdf]](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878) (**FaceCraft**)
 
 1. - [x] Rajeev Ranjan, Vishal M. Patel, Rama Chellappa. "**HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition**." ArXiv report(2016). [[pdf]](https://arxiv.org/abs/1603.01249) (**HyperFace**) 
 
@@ -106,11 +110,11 @@
 
 1. - [x] Zekun Hao, Yu Liu, et al. "**Scale-Aware Face Detection**." arXiv:1706.01061(2017). [[pdf]](https://arxiv.org/pdf/1706.09876)(**SAFD**)
 
-1. - [ ] Liu, Yu, et al. "**Recurrent Scale Approximation for Object Detection in CNN**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1707.09531)(**RSA**)
+1. - [x] Liu, Yu, et al. "**Recurrent Scale Approximation for Object Detection in CNN**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1707.09531)(**RSA**)
 
 1. - [x] Najibi, Mahyar, et al. "**SSH: Single Stage Headless Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**SSH**)
 
-1. - [ ] Zhang, Shifeng, et al. "**S3FD: Single Shot Scale-invariant Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05237)(**S3FD**)
+1. - [x] Zhang, Shifeng, et al. "**S3FD: Single Shot Scale-invariant Face Detector**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.05237)(**S3FD**)
 
 1. - [x] Zhang, Shifeng, et al. "**FaceBoxes: A CPU Real-time Face Detector with High Accuracy**."  IJCB(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
 
@@ -124,7 +128,7 @@
 1. - [x] Adrian Bulat and Georgios Tzimiropoulos. "**How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.07332)(**FAN**)
 
 ### Recognition
-1. - [ ] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
+1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
 
 1. - [ ] Xiang Wu, Ran He, et al. "**A Light CNN for Deep Face Representation with Noisy Labels**." arXiv:1511.02683(2015).[[pdf]](https://arxiv.org/abs/1511.02683v3) (**Lignt CNN**)
 
