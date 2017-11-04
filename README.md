@@ -24,7 +24,7 @@
 1. - [x] Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng et al. "**Dual Path Networks**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1707.01629) (**DPN**)
 
 ## Detection
-## 2D
+### 2D
 1. - [x] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." CVPR(2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
 
 1. - [x] He, K., et al. "**Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**." IEEE Transactions on Pattern Analysis & Machine Intelligence. (2014). [[pdf]](https://arxiv.org/abs/1406.4729) (**SPPNet**) 
@@ -56,12 +56,12 @@
 1. - [ ] Chen, Xiaozhi, et al. "**Monocular 3D Object Detection for Autonomous Driving, 2016:2147-2156.**." CVPR(2016). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf) 
 
 ## Segmentation
-## Segmantic
+### Segmantic
 1. - [ ] Xiaoxiao Li, Ziwei Liu, et al. "**Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade**." arXiv preprint (2017). [[pdf]](https://arxiv.org/abs/1704.08545) (**DLC**)
 
 1. - [ ] He, Gkioxari, et al. "**ICNet for Real-Time Semantic Segmentation on High-Resolution Images**." arXiv preprint (2017). [[pdf]](https://arxiv.org/abs/1704.08545) (**ICNet**)
 
-## Instance
+### Instance
 1. - [ ] He, Gkioxari, et al. "**Mask R-CNN**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.06870) (**Mask RCNN**)
 
 
