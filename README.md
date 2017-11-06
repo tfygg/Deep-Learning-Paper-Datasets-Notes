@@ -1,4 +1,4 @@
-# Deep-Learning-Papers-List
+# Computer-Vision-Papers-List
 
 ## Classification
 1. - [x] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
@@ -143,5 +143,9 @@
 1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." arXiv:1704.06369(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
 1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+
+
+
+
 
 
