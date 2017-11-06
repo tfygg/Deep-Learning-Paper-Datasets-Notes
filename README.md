@@ -57,6 +57,10 @@
 
 ## Segmentation
 ### Segmantic
+1. - [x] Long, Jonathan, E. Shelhamer, and T. Darrell. "**Fully convolutional networks for semantic segmentation**." EEE Conference on Computer Vision and Pattern Recognition IEEE Computer Society(2015). [[pdf]](https://arxiv.org/abs/1411.4038v2) (**FCN**)
+
+1. - [x] Dvornik, Nikita, et al. "**BlitzNet: A Real-Time Deep Network for Scene Understanding**." ICCV (2017). [[pdf]](https://arxiv.org/abs/1708.02813) (**BlitzNet**)
+
 1. - [ ] Xiaoxiao Li, Ziwei Liu, et al. "**Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade**." arXiv preprint (2017). [[pdf]](https://arxiv.org/abs/1704.08545) (**DLC**)
 
 1. - [ ] He, Gkioxari, et al. "**ICNet for Real-Time Semantic Segmentation on High-Resolution Images**." arXiv preprint (2017). [[pdf]](https://arxiv.org/abs/1704.08545) (**ICNet**)
