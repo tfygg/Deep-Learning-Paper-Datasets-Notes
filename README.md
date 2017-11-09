@@ -1,4 +1,4 @@
-# Computer-Vision-Papers-List
+# Deep-Learning-Papers-List
 
 ## Classification
 1. - [x] Krizhevsky, Alex, et al. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) (**AlexNet**) 
@@ -145,7 +145,8 @@
 1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
 
 
-
+## RNN
+1. - [ ] Graves A, Gomez F, et al. "**Connectionist temporal classification:labelling unsegmented sequence data with recurrent neural networks[C]// International Conference on Machine Learning. ACM, 2006:369-376..**" (2006). ACM(2017).[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2006_GravesFGS06.pdf) (**CTC**)
 
 
 
