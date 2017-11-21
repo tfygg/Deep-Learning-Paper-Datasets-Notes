@@ -150,8 +150,11 @@
 ### Detection 
 
 ### Segmentation
-1. - [ ] Brazil, Garrick, X. Yin, and X. Liu. "**Illuminating Pedestrians via Simultaneous Detection & Segmentation.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.08564) 
+1. - [ ] Brazil, Garrick, X. Yin, and X. Liu. "**Illuminating Pedestrians via Simultaneous Detection & Segmentation.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.08564) 
 
+
+## GAN
+1. - [ ] Alec Radford, Luke Metz, Soumith Chintala. "**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.**" ICLR (2016). [[pdf]](https://arxiv.org/abs/1511.06434)  (**dcgan**)
 
 
 ## RNN
