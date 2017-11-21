@@ -124,6 +124,8 @@
 
 1. - [x] Zhang, Shifeng, et al. "**FaceBoxes: A CPU Real-time Face Detector with High Accuracy**."  IJCB(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
 
+1. - [ ] Jianfeng Wang, Ye Yuan, Gang Yu. "**Face Attention Network: An effective Face Detector for the Occluded Faces**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1711.07246)(**FAN**)
+
 ### Alignment
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "***Facial landmark detection by deep multi-task learning**." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
 
@@ -143,6 +145,13 @@
 1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." arXiv:1704.06369(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
 1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+
+## Pedestrians 
+### Detection 
+
+### Segmentation
+1. - [ ] Brazil, Garrick, X. Yin, and X. Liu. "**Illuminating Pedestrians via Simultaneous Detection & Segmentation.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.08564) 
+
 
 
 ## RNN
