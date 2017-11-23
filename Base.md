@@ -49,6 +49,10 @@
 
 1. - [x] Lin, Tsung Yi, et al. "**Focal Loss for Dense Object Detection**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.02002) (**Focal Loss**)
 
+1. - [ ] Zhiqiang Shen, Zhuang Liu, Jianguo Li, Yu-Gang Jiang, Yurong Chen, Xiangyang Xue. "**DSOD: Learning Deeply Supervised Object Detectors from Scratch**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.01241v1)[[github]](https://github.com/szq0214/DSOD) (**DSOD**)
+
+1. - [ ] Tao Kong, Fuchun Sun, Anbang Yao, Huaping Liu, Ming Lu, Yurong Chen. "**RON: Reverse Connection with Objectness Prior Networks for Object Detection**." CVPR (2017). [[pdf]](https://arxiv.org/abs/1707.01691)[[github]](https://github.com/taokong/RON) (**RON**)
+
 **Review**
 1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016). [[pdf]](https://arxiv.org/abs/1611.10012) 
 
