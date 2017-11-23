@@ -45,7 +45,7 @@
 
 1. - [ ] Dai, Jifeng, et al. "**R-FCN: Object Detection via Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2016). [[pdf]](https://arxiv.org/abs/1605.06409) (**R-FCN**)
 
-1. - [x] Lin, Tsung Yi, et al. "**Feature Pyramid Networks for Object Detection**." (2016). [[pdf]](https://arxiv.org/abs/1612.03144) (**FPN**)
+1. - [x] Lin, Tsung Yi, et al. "**Feature Pyramid Networks for Object Detection**." CVPR(2016). [[pdf]](https://arxiv.org/abs/1612.03144) (**FPN**)
 
 1. - [x] Lin, Tsung Yi, et al. "**Focal Loss for Dense Object Detection**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1708.02002) (**Focal Loss**)
 
