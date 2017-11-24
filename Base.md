@@ -78,7 +78,7 @@
 
 
 ## Network Compression
-### Group conv
+### Conv trick
 1. - [x] Forrest N. Iandola, Song Han, et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**." (2017). [[pdf]](https://arxiv.org/abs/1602.07360) (**SqueezeNet**)
 
 1. - [x] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
