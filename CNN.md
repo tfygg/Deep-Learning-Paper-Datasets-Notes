@@ -78,12 +78,15 @@
 
 
 ## Network Compression
-### Conv trick
+### Group Conv
 1. - [x] Forrest N. Iandola, Song Han, et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**." (2017). [[pdf]](https://arxiv.org/abs/1602.07360) (**SqueezeNet**)
 
 1. - [x] Howard, Andrew G, et al. "**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**." (2017). [[pdf]](https://arxiv.org/abs/1704.04861) (**MobileNets**)
 
 1. - [x] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
+
+1. - [ ] Gao Huang et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (2017). [[pdf]](http://www.cs.cornell.edu/~gaohuang/papers/condensenet.pdf) (**ShuffleNet**)
+
 
 ### Distilling
 1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
