@@ -44,6 +44,13 @@
 ## Quality Assessment
 1. - [x] Chen, Jiansheng, et al. "**Face Image Quality Assessment Based on Learning to Rank.**" IEEE Signal Processing Letters 22.1(2014):90-94. [[pdf]](http://pdfs.semanticscholar.org/a1f4/0bcfadbeee66f67ab0755dd3037c030a7450.pdf)
 
+1. - [x] Abaza, A, et al. "**Design and evaluation of photometric image quality measures for effective face recognition.**" Biometrics Iet 3.4(2014):314-324.. [[pdf]](https://www.researchgate.net/publication/286321381_Design_and_evaluation_of_photometric_image_quality_measures_for_effective_face_recognition)
+
+1. - [x] Yang, Xiaokang, et al. "**Recognition Oriented Facial Image Quality Assessment via Deep Convolutional Neural Network.**" International Conference on Internet Multimedia Computing and Service ACM, 2016:160-163. [[pdf]](https://www.researchgate.net/publication/311622553_Recognition_Oriented_Facial_Image_Quality_Assessment_via_Deep_Convolutional_Neural_Network)
+
+1. - [x] Vignesh, Manasa Priya, and S. S. Channappayya. "**Face image quality assessment for face selection in surveillance video using convolutional neural networks.**" Signal and Information Processing IEEE, 2016:577-581. [[pdf]](https://www.researchgate.net/publication/300410225_Face_image_quality_assessment_for_face_selection_in_surveillance_video_using_convolutional_neural_networks?ev=auth_pub)
+
+
 ## Anti-Spoofing
 1. - [x] Galbally, Javier, S. Marcel, and J. Fierrez. "**Image Quality Assessment for Fake Biometric Detection: Application to Iris, Fingerprint, and Face Recognition.**" IEEE Transactions on Image Processing 23.2(2014):710-24. [[pdf]](http://ijmr.net.in/download.php?filename=4mER2rK9kVf1jMq.pdf&new=IJMSS59May3091.pdf)
 
@@ -51,7 +58,7 @@
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
 
-1. - [ ] Xiang Wu, Ran He, et al. "**A Light CNN for Deep Face Representation with Noisy Labels**." arXiv:1511.02683(2015).[[pdf]](https://arxiv.org/abs/1511.02683v3) (**Lignt CNN**)
+1. - [x] Xiang Wu, Ran He, et al. "**A Light CNN for Deep Face Representation with Noisy Labels**." arXiv:1511.02683(2015).[[pdf]](https://arxiv.org/abs/1511.02683v3) (**Lignt CNN**)
 
 1. - [x] Wen, Yandong, et al. "**A Discriminative Feature Learning Approach for Deep Face Recognition**." ECCV(2016). [[pdf]](http://www.eccv2016.org/files/posters/P-3B-20.pdf) (**CenterFace**)
 
