@@ -1,6 +1,6 @@
 # Deep-Learning-Papers-List
 
-- [Classification & Detection & Segmentation](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Base.md)
+- [CNN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Base.md)
 
 - [Network Compression](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Base.md)
 
