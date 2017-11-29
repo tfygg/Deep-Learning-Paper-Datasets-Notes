@@ -12,4 +12,4 @@
 
 - [RNN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/RNN.md)
 
-- [Tracking](https://github.com/tfygg/Deep-Learning-Papers-List/edit/master/Tracking.md)
+- [Tracking](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Tracking.md)
