@@ -6,7 +6,7 @@
 
 1. - [x] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
 
-1. - [ ] Gao Huang et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (2017). [[pdf]](http://www.cs.cornell.edu/~gaohuang/papers/condensenet.pdf) (**ShuffleNet**)
+1. - [ ] Gao Huang et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (2017). [[pdf]](http://www.cs.cornell.edu/~gaohuang/papers/condensenet.pdf) (**CondenseNet**)[[github]](https://github.com/ShichenLiu/CondenseNet)
 
 
 ## Distilling
