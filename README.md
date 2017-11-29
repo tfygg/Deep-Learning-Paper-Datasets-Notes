@@ -1,8 +1,8 @@
 # Deep-Learning-Papers-List
 
-- [CNN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Base.md)
+- [CNN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CNN.md)
 
-- [Network Compression](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Base.md)
+- [Network Compression](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/NetworkCompression.md)
 
 - [Face](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Face.md)
 
@@ -12,3 +12,4 @@
 
 - [RNN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/RNN.md)
 
+- [Track](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Track.md)
