@@ -54,6 +54,10 @@
 ## Anti-Spoofing
 1. - [x] Galbally, Javier, S. Marcel, and J. Fierrez. "**Image Quality Assessment for Fake Biometric Detection: Application to Iris, Fingerprint, and Face Recognition.**" IEEE Transactions on Image Processing 23.2(2014):710-24. [[pdf]](http://ijmr.net.in/download.php?filename=4mER2rK9kVf1jMq.pdf&new=IJMSS59May3091.pdf)
 
+## Head pose estimation
+1. - [ ] Wu, Yue, C. Gou, and Q. Ji. "**Simultaneous Facial Landmark Detection, Pose and Deformation Estimation under Facial Occlusion.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1709.08130)
+
+1. - [ ] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)
 
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
