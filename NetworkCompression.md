@@ -9,8 +9,11 @@
 1. - [ ] Gao Huang et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (2017). [[pdf]](http://www.cs.cornell.edu/~gaohuang/papers/condensenet.pdf) (**CondenseNet**)[[github]](https://github.com/ShichenLiu/CondenseNet)
 
 
-## Distilling
-1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
+
+### Distilling
+1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2014). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
+
+1. - [X] Romero, Adriana, et al. "**FitNets: Hints for Thin Deep Nets.**." Computer Science (2014). [[pdf]](https://arxiv.org/abs/1412.6550) (**FitNets**)
 
 1. - [x] Zhou, Guorui, et al. "**Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net**." (2017). [[pdf]](Csc.kth.se/~vahidk/face_ert.html) (**Launching**)
 
