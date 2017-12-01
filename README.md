@@ -6,7 +6,7 @@
 
 - [Face](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Face.md)
 
-- [Pedestrians](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Pedestrians.md)
+- [Human](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Human.md)
 
 - [GAN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/GAN.md)
 
