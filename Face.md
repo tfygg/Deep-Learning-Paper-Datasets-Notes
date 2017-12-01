@@ -32,7 +32,7 @@
 
 1. - [ ] Jianfeng Wang, Ye Yuan, Gang Yu. "**Face Attention Network: An effective Face Detector for the Occluded Faces**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1711.07246)(**FAN**)
 
-## Alignment
+## Alignment & Head pose estimation
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "***Facial landmark detection by deep multi-task learning**." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
 
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "**Learning Deep Representation for Face Alignment with Auxiliary Attributes**." TPAMI(2015). [[pdf]](https://arxiv.org/abs/1408.3967)(**FAAA**)
@@ -40,6 +40,8 @@
 1. - [x] Wu, Yue, and T. Hassner. "**Facial Landmark Detection with Tweaked Convolutional Neural Networks**." Computer Science(2015). [[pdf]](https://arxiv.org/abs/1511.04031)(**Vanilla CNN**)
 
 1. - [x] Adrian Bulat and Georgios Tzimiropoulos. "**How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.07332)(**FAN**)
+
+1. - [x] Wu, Yue, C. Gou, and Q. Ji. "**Simultaneous Facial Landmark Detection, Pose and Deformation Estimation under Facial Occlusion.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1709.08130)
 
 ## Quality Assessment
 1. - [x] Chen, Jiansheng, et al. "**Face Image Quality Assessment Based on Learning to Rank.**" IEEE Signal Processing Letters 22.1(2014):90-94. [[pdf]](http://pdfs.semanticscholar.org/a1f4/0bcfadbeee66f67ab0755dd3037c030a7450.pdf)
@@ -53,9 +55,6 @@
 
 ## Anti-Spoofing
 1. - [x] Galbally, Javier, S. Marcel, and J. Fierrez. "**Image Quality Assessment for Fake Biometric Detection: Application to Iris, Fingerprint, and Face Recognition.**" IEEE Transactions on Image Processing 23.2(2014):710-24. [[pdf]](http://ijmr.net.in/download.php?filename=4mER2rK9kVf1jMq.pdf&new=IJMSS59May3091.pdf)
-
-## Head pose estimation
-1. - [ ] Wu, Yue, C. Gou, and Q. Ji. "**Simultaneous Facial Landmark Detection, Pose and Deformation Estimation under Facial Occlusion.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1709.08130)
 
 1. - [ ] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)[[github]](https://github.com/natanielruiz/deep-head-pose)
 
