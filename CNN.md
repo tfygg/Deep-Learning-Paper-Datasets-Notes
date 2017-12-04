@@ -55,6 +55,8 @@
 
 1. - [ ] Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li. "**Single-Shot Refinement Neural Network for Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.06897)[[github]](https://github.com/sfzhang15/RefineDet) (**RefineDet**)
 
+1. - [x] Songtao Liu, Di Huang, Yunhong Wang. "**Receptive Field Block Net for Accurate and Fast Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.07767)[[github]](https://github.com/ruinmessi/RFBNet) (**RFBNet**)
+
 **Review**
 1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016). [[pdf]](https://arxiv.org/abs/1611.10012) 
 
