@@ -11,4 +11,6 @@
 
 ## Review
 
-1. - [ ] Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet "**Are GANs Created Equal? A Large-Scale Study.**" ICLR (2017). [[pdf]](https://arxiv.org/abs/1711.10337)
+1. - [ ] Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet. "**Are GANs Created Equal? A Large-Scale Study.**" ICLR (2017). [[pdf]](https://arxiv.org/abs/1711.10337)
+
+1. - [ ] Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, Marc'Aurelio Ranzato. "**Fader Networks: Manipulating Images by Sliding Attributes.**" NIPS (2017). [[pdf]](https://arxiv.org/abs/1711.10337)[[github]](https://github.com/facebookresearch/FaderNetworks)(**FaderNetworks**)
