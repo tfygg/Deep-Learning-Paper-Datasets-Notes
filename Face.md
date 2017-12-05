@@ -43,6 +43,8 @@
 
 1. - [x] Wu, Yue, C. Gou, and Q. Ji. "**Simultaneous Facial Landmark Detection, Pose and Deformation Estimation under Facial Occlusion.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1709.08130)
 
+1. - [x] Marek Kowalski, Jacek Naruniec, Tomasz Trzcinski. "**Deep Alignment Network: A convolutional neural network for robust face alignment.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.01789)[[github]](https://github.com/MarekKowalski/DeepAlignmentNetwork)(**DAN**)
+
 1. - [x] Adrian Bulat, Georgios Tzimiropoulos. "**Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources.**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.00862)[[github]](https://github.com/1adrianb/binary-human-pose-estimation)
 
 ## Quality Assessment
