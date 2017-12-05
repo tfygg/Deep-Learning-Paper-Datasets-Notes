@@ -43,6 +43,8 @@
 
 1. - [x] Wu, Yue, C. Gou, and Q. Ji. "**Simultaneous Facial Landmark Detection, Pose and Deformation Estimation under Facial Occlusion.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1709.08130)
 
+1. - [x] Adrian Bulat, Georgios Tzimiropoulos. "**Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources.**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.00862)[[github]](https://github.com/1adrianb/binary-human-pose-estimation)
+
 ## Quality Assessment
 1. - [x] Chen, Jiansheng, et al. "**Face Image Quality Assessment Based on Learning to Rank.**" IEEE Signal Processing Letters 22.1(2014):90-94. [[pdf]](http://pdfs.semanticscholar.org/a1f4/0bcfadbeee66f67ab0755dd3037c030a7450.pdf)
 
