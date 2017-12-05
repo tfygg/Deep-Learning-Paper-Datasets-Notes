@@ -15,9 +15,12 @@
 
 1. - [X] Romero, Adriana, et al. "**FitNets: Hints for Thin Deep Nets.**." Computer Science (2014). [[pdf]](https://arxiv.org/abs/1412.6550) (**FitNets**)
 
-1. - [x] Sergey Zagoruyko, Nikos Komodakis "**Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer**." (2016). [[pdf]](https://arxiv.org/abs/1612.03928) [[github]](https://github.com/szagoruyko/attention-transfer)(**attention-transfer**)
+1. - [ ] Sergey Zagoruyko, Nikos Komodakis "**Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer**." (2016). [[pdf]](https://arxiv.org/abs/1612.03928) [[github]](https://github.com/szagoruyko/attention-transfer)(**attention-transfer**)
 
 1. - [x] Zhou, Guorui, et al. "**Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net**." (2017). [[pdf]](Csc.kth.se/~vahidk/face_ert.html) (**Launching**)
+
+1. - [ ] Junho Yim, Donggyu Joo,Jihoon Bae, Junmo Kim et al. "**A Gift from Knowledge Distillation:
+Fast Optimization, Network Minimization and Transfer Learning**." CVPR(2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf) 
 
 1. - [x] Q Li, S Jin, J Yan et al. "**Mimicking Very Efficient Network for Object Detection**." CVPR(2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf) (**Mimicking**)
 
