@@ -47,6 +47,8 @@
 
 1. - [x] Adrian Bulat, Georgios Tzimiropoulos. "**Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources.**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.00862)[[github]](https://github.com/1adrianb/binary-human-pose-estimation)
 
+1. - [x] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)[[github]](https://github.com/natanielruiz/deep-head-pose)
+
 ## Quality Assessment
 1. - [x] Chen, Jiansheng, et al. "**Face Image Quality Assessment Based on Learning to Rank.**" IEEE Signal Processing Letters 22.1(2014):90-94. [[pdf]](http://pdfs.semanticscholar.org/a1f4/0bcfadbeee66f67ab0755dd3037c030a7450.pdf)
 
@@ -60,7 +62,6 @@
 ## Anti-Spoofing
 1. - [x] Galbally, Javier, S. Marcel, and J. Fierrez. "**Image Quality Assessment for Fake Biometric Detection: Application to Iris, Fingerprint, and Face Recognition.**" IEEE Transactions on Image Processing 23.2(2014):710-24. [[pdf]](http://ijmr.net.in/download.php?filename=4mER2rK9kVf1jMq.pdf&new=IJMSS59May3091.pdf)
 
-1. - [ ] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)[[github]](https://github.com/natanielruiz/deep-head-pose)
 
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
