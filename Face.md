@@ -72,4 +72,8 @@
 
 1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." arXiv:1704.06369(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
-1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" (2017). CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+
+## Review
+1. - [ ] Baltru Aitis, Tadas, P. Robinson, and L. P. Morency.  "**OpenFace: An open source facial behavior analysis toolkit.**" IEEE Winter Conference on Applications of Computer Vision IEEE, 2016:1-10. [[pdf]](https://pdfs.semanticscholar.org/a276/6412073f9016e36212052f6192bd2bc8cc2c.pdf) (**OpenFace**)
+
