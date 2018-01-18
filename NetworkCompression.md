@@ -6,9 +6,9 @@
 
 1. - [x] Zhang, Xiangyu, et al. "**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**." (2017). [[pdf]](https://arxiv.org/abs/1707.01083) (**ShuffleNet**)
 
-1. - [ ] Gao Huang et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (2017). [[pdf]](http://www.cs.cornell.edu/~gaohuang/papers/condensenet.pdf) (**CondenseNet**)[[github]](https://github.com/ShichenLiu/CondenseNet)
+1. - [x] Gao Huang et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (2017). [[pdf]](http://www.cs.cornell.edu/~gaohuang/papers/condensenet.pdf) [[github]](https://github.com/ShichenLiu/CondenseNet)(**CondenseNet**)
 
-
+1. - [ ] Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen et al. "**Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation**." (2018). [[pdf]](https://arxiv.org/abs/1801.04381) (**CondenseNet**)
 
 ### Distilling
 1. - [X] Geoffrey Hinton, Oriol Vinyals, Jeff Dean. "**Distilling the Knowledge in a Neural Network**." CVPR(2014). [[pdf]](https://arxiv.org/abs/1503.02531) (**Distilling**)
