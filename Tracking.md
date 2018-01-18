@@ -11,3 +11,6 @@
 1. - [x] Jack Valmadre, Luca Bertinetto, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr "**End-to-end representation learning for Correlation Filter based tracking**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.06036) [[github]](https://github.com/bertinetto/cfnet)(**CFNet**)
 
 1. - [ ] Christoph Feichtenhofer, Axel Pinz, Andrew Zisserman. "**Detect to Track and Track to Detect**." ICCV(2017). [[pdf]](https://arxiv.org/abs/1710.03958) [[github]](https://github.com/feichtenhofer/Detect-Track)[[summary]](https://www.robots.ox.ac.uk/~vgg/research/detect-track/)(**DTTD**)
+
+1. - [ ] Kang K, Li H, Xiao T, et al. "** Object Detection in Videos with Tubelet Proposal Network**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1702.06355) [[github]](https://github.com/myfavouritekk/vdetlib)
+
