@@ -49,6 +49,8 @@
 
 1. - [x] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)[[github]](https://github.com/natanielruiz/deep-head-pose)
 
+1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization.**" (2018). [[pdf]](https://arxiv.org/abs/1801.09242)[[github]](https://github.com/HongwenZhang/JVCR-3Dlandmark)(**JVCR-3Dlandmark**)
+
 **Review**
 1. - [x] Jin, Xin, and X. Tan. "**Face Alignment In-the-Wild: A Survey.**" Computer Vision & Image Understanding (2017). [[pdf]](https://arxiv.org/abs/1608.04188)
 
