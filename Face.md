@@ -75,9 +75,18 @@
 
 1. - [x] Wen, Yandong, et al. "**A Discriminative Feature Learning Approach for Deep Face Recognition**." ECCV(2016). [[pdf]](http://www.eccv2016.org/files/posters/P-3B-20.pdf) (**CenterFace**)
 
-1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." arXiv:1704.06369(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
+1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." ACM MM(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
-1. - [ ] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+1. - [x] Rajeev Ranjan, Carlos D. Castillo, Rama Chellappa, et al. "**L2-constrained Softmax Loss for Discriminative Face Verification.**" (2017). [[pdf]](https://arxiv.org/abs/1703.09507) (**L-softmax**)
+
+1. - [x] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
+
+1. - [x] Liu, Yu, H. Li, and X. Wang. "**Rethinking Feature Discrimination and Polymerization for Large-scale Recognition.**" NIPS(2017). [[pdf]](https://arxiv.org/abs/1710.00870) (**Coco loss**)
+
+1. - [ ] Wang F, Liu W, Liu H, et al. "**Additive Margin Softmax for Face Verification.**" arXiv 2018.[[pdf]](https://arxiv.org/abs/1801.05599) (**AM-Softmax**)
+
+1. - [ ] Deng, Jiankang, J. Guo, and S. Zafeiriou. "**ArcFace: Additive Angular Margin Loss for Deep Face Recognition.**" (2018).[[pdf]](https://arxiv.org/abs/1801.07698) (**ArcFace**)
+
 
 ## Review
 1. - [ ] Baltru Aitis, Tadas, P. Robinson, and L. P. Morency.  "**OpenFace: An open source facial behavior analysis toolkit.**" IEEE Winter Conference on Applications of Computer Vision IEEE, 2016:1-10. [[pdf]](https://pdfs.semanticscholar.org/a276/6412073f9016e36212052f6192bd2bc8cc2c.pdf) (**OpenFace**)
