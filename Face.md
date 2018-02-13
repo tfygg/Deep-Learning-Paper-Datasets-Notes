@@ -75,9 +75,11 @@
 
 1. - [x] Wen, Yandong, et al. "**A Discriminative Feature Learning Approach for Deep Face Recognition**." ECCV(2016). [[pdf]](http://www.eccv2016.org/files/posters/P-3B-20.pdf) (**CenterFace**)
 
+1. - [x] Weiyang Liu, Yandong Wen, Zhiding Yu, Meng Yang. "**Large-Margin Softmax Loss for Convolutional Neural Networks**." ICML(2016). [[pdf]](https://arxiv.org/abs/1612.02295) (**L-softmax**)
+
 1. - [ ] Wang, Feng, et al. "**NormFace: $L_2$ Hypersphere Embedding for Face Verification**." ACM MM(2017). [[pdf]](https://arxiv.org/abs/1704.06369) (**NormFace**)
 
-1. - [x] Rajeev Ranjan, Carlos D. Castillo, Rama Chellappa, et al. "**L2-constrained Softmax Loss for Discriminative Face Verification.**" (2017). [[pdf]](https://arxiv.org/abs/1703.09507) (**L-softmax**)
+1. - [x] Rajeev Ranjan, Carlos D. Castillo, Rama Chellappa, et al. "**L2-constrained Softmax Loss for Discriminative Face Verification.**" (2017). [[pdf]](https://arxiv.org/abs/1703.09507) (**L2-softmax**)
 
 1. - [x] Liu, Weiyang, et al. "**SphereFace: Deep Hypersphere Embedding for Face Recognition.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1704.08063) (**SphereFace**)
 
