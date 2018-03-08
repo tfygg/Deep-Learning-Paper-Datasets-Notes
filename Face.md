@@ -30,7 +30,9 @@
 
 1. - [x] Zhang, Shifeng, et al. "**FaceBoxes: A CPU Real-time Face Detector with High Accuracy**."  IJCB(2017). [[pdf]](https://arxiv.org/abs/1708.05234)(**Faceboxes**)
 
-1. - [ ] Jianfeng Wang, Ye Yuan, Gang Yu. "**Face Attention Network: An effective Face Detector for the Occluded Faces**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1711.07246)(**FAN**)
+1. - [x] Jianfeng Wang, Ye Yuan, Gang Yu. "**Face Attention Network: An effective Face Detector for the Occluded Faces**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1711.07246)(**FAN**)
+
+1. - [ ] Chenchen Zhu, Ran Tao, Khoa Luu, Marios Savvides. "**Seeing Small Faces from Robust Anchor's Perspective**." CVPR(2018). [[pdf]](https://arxiv.org/abs/1802.09058)
 
 ## Alignment & Head pose estimation
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "***Facial landmark detection by deep multi-task learning**." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
