@@ -53,6 +53,8 @@
 
 1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization.**" (2018). [[pdf]](https://arxiv.org/abs/1801.09242)[[github]](https://github.com/HongwenZhang/JVCR-3Dlandmark)(**JVCR-3Dlandmark**)
 
+1. - [ ] Dong, Xuanyi and Yan, Yan and Ouyang, Wanli and Yang, Yi. "**Style Aggregated Network for Facial Landmark Detection.**" (2018). [[pdf]](https://arxiv.org/abs/1803.04108)[[github]](https://github.com/D-X-Y/SAN)(**SAN**)
+
 **Review**
 1. - [x] Jin, Xin, and X. Tan. "**Face Alignment In-the-Wild: A Survey.**" Computer Vision & Image Understanding (2017). [[pdf]](https://arxiv.org/abs/1608.04188)
 
