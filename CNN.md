@@ -53,6 +53,8 @@
 
 1. - [x] Tao Kong, Fuchun Sun, Anbang Yao, Huaping Liu, Ming Lu, Yurong Chen. "**RON: Reverse Connection with Objectness Prior Networks for Object Detection**." CVPR (2017). [[pdf]](https://arxiv.org/abs/1707.01691)[[github]](https://github.com/taokong/RON) (**RON**)
 
+1. - [ ] Cheng-Yang Fu, Wei Liu, Ananth Ranga, Ambrish Tyagi, Alexander C. Berg. "**DSSD : Deconvolutional Single Shot Detector**." (2017). [[pdf]](https://arxiv.org/abs/1701.06659)(**DSSD**)
+
 1. - [x] Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li. "**Single-Shot Refinement Neural Network for Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.06897)[[github]](https://github.com/sfzhang15/RefineDet) (**RefineDet**)
 
 1. - [x] Songtao Liu, Di Huang, Yunhong Wang. "**Receptive Field Block Net for Accurate and Fast Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.07767)[[github]](https://github.com/ruinmessi/RFBNet) (**RFBNet**)
