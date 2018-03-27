@@ -53,11 +53,13 @@
 
 1. - [x] Tao Kong, Fuchun Sun, Anbang Yao, Huaping Liu, Ming Lu, Yurong Chen. "**RON: Reverse Connection with Objectness Prior Networks for Object Detection**." CVPR (2017). [[pdf]](https://arxiv.org/abs/1707.01691)[[github]](https://github.com/taokong/RON) (**RON**)
 
-1. - [ ] Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li. "**Single-Shot Refinement Neural Network for Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.06897)[[github]](https://github.com/sfzhang15/RefineDet) (**RefineDet**)
+1. - [x] Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li. "**Single-Shot Refinement Neural Network for Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.06897)[[github]](https://github.com/sfzhang15/RefineDet) (**RefineDet**)
 
 1. - [x] Songtao Liu, Di Huang, Yunhong Wang. "**Receptive Field Block Net for Accurate and Fast Object Detection**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.07767)[[github]](https://github.com/ruinmessi/RFBNet) (**RFBNet**)
 
 1. - [ ] Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun. "**Light-Head R-CNN: In Defense of Two-Stage Object Detector**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.07264)(**Light-Head R-CNN**)
+
+1. - [ ] Zuoxin Li, Fuqiang Zhou. "**FSSD: Feature Fusion Single Shot Multibox Detector**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1712.00960v2)(**FSSD**)
 
 **Review**
 1. - [x] Huang, Jonathan, et al. "**Speed/accuracy trade-offs for modern convolutional object detectors**." (2016). [[pdf]](https://arxiv.org/abs/1611.10012) 
