@@ -1,7 +1,17 @@
 # Tracking
 
-## CNN
+1. - [x] Kalal Z, Mikolajczyk K, Matas J. "**Tracking-Learning-Detection.**" IEEE Transactions on Pattern Analysis & Machine Intelligence, 2012, 34(7):1409-22.(**TLD**)
 
+## CF
+1. - [x] Henriques J F, Rui C, Martins P, et al. "**High-Speed Tracking with Kernelized Correlation Filters.**" IEEE Transactions on Pattern Analysis & Machine Intelligence, 2014, 37(3):583-596. [[paper](https://arxiv.org/abs/1404.7584)](**KCF**)
+
+1. - [x] Danelljan M, Häger G, Khan F S. "**Accurate scale estimation for robust visual tracking.**"  British Machine Vision Conference. 2014:65.1-65.11. [[paper](http://www.cvl.isy.liu.se/en/research/objrec/visualtracking/scalvistrack/ScaleTracking_BMVC14.pdf)](**DSST**)
+
+
+**Review**
+1. - [ ] Chen Z, Hong Z, Tao D. "**An Experimental Survey on Correlation Filter-based Tracking.**" Computer Science, 2015, 53(6025):págs. 68-83.
+
+## CNN
 1. - [x] Nam, Hyeonseob, and Bohyung Han. "**Learning Multi-Domain Convolutional Neural Networks for Visual Tracking.**" CVPR (2016)[[paper](http://arxiv.org/pdf/1510.07945v2.pdf)][[VOT_presentation](http://votchallenge.net/vot2015/download/presentation_Hyeonseob.pdf)][[project](http://cvlab.postech.ac.kr/research/mdnet/)][[github](https://github.com/HyeonseobNam/MDNet)](**MDNet**)
 
 1. - [x] Nam, Hyeonseob, and Bohyung Han. "**Fully-Convolutional Siamese Networks for Object Tracking.**" CVPR (2016)[[paper](https://arxiv.org/abs/1606.09549)][[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)][[github](https://github.com/bertinetto/siamese-fc)](**Siamese-fc**)
