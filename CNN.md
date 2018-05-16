@@ -48,6 +48,8 @@
 
 1. - [ ] Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun. "**Light-Head R-CNN: In Defense of Two-Stage Object Detector**." arxiv (2017). [[pdf]](https://arxiv.org/abs/1711.07264)(**Light-Head R-CNN**)
 
+1. - [ ] Robert J. Wang, Xiang Li, Shuang Ao, Charles X. Ling. "**Pelee: A Real-Time Object Detection System on Mobile Devices**." ICLR (2018). [[pdf]](https://arxiv.org/abs/1804.06882)(**PeleeNet**)
+
 #### One stage
 1. - [x] Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [[pdf]](http://arxiv.org/pdf/1512.02325)(**SSD**)
 
