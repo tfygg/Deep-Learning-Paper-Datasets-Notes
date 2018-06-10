@@ -1,5 +1,6 @@
 # Human 
 ## Detection 
+1. - [ ] Wang X, Xiao T, Jiang Y, et al.  "**Repulsion Loss: Detecting Pedestrians in a Crowd.**" CVPR(2018). [[pdf]](https://arxiv.org/abs/1711.07752) 
 
 ## Segmentation
 1. - [ ] Brazil, Garrick, X. Yin, and X. Liu. "**Illuminating Pedestrians via Simultaneous Detection & Segmentation.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.08564) 
