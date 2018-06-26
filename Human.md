@@ -12,5 +12,9 @@
 
 1. - [ ] Bin Xiao, Haiping Wu, Yichen Wei. "**Simple Baselines for Human Pose Estimation and Tracking.**" 2018. [[pdf]](https://arxiv.org/abs/1804.06208) 
  
-## Attribute
+## ReID
+### Attribute
 1. - [ ] Yutian Lin, Liang Zheng, Zhedong Zheng, Yu Wu, Yi Yang. "**Improving Person Re-identification by Attribute and Identity Learning.**" 2017. [[pdf]](https://arxiv.org/abs/1703.07220) 
+
+1. - [ ] Tetsu Matsukawa, Einoshin Suzuki. "**Person Re-Identification Using CNN Features Learned from Combination of Attributes
+.**" 2016(ICPR). [[pdf]](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/icpr2016.pdf) 
