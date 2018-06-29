@@ -1,6 +1,6 @@
-# Human 
+# People 
 ## Detection 
-1. - [ ] Wang X, Xiao T, Jiang Y, et al.  "**Repulsion Loss: Detecting Pedestrians in a Crowd.**" CVPR(2018). [[pdf]](https://arxiv.org/abs/1711.07752) 
+1. - [x] Wang X, Xiao T, Jiang Y, et al.  "**Repulsion Loss: Detecting Pedestrians in a Crowd.**" CVPR(2018). [[pdf]](https://arxiv.org/abs/1711.07752) 
 
 ## Segmentation
 1. - [ ] Brazil, Garrick, X. Yin, and X. Liu. "**Illuminating Pedestrians via Simultaneous Detection & Segmentation.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.08564) 
@@ -14,7 +14,14 @@
  
 ## ReID
 ### Attribute
-1. - [ ] Yutian Lin, Liang Zheng, Zhedong Zheng, Yu Wu, Yi Yang. "**Improving Person Re-identification by Attribute and Identity Learning.**" 2017. [[pdf]](https://arxiv.org/abs/1703.07220) 
+1. - [x] Yutian Lin, Liang Zheng, Zhedong Zheng, Yu Wu, Yi Yang. "**Improving Person Re-identification by Attribute and Identity Learning.**" 2017. [[pdf]](https://arxiv.org/abs/1703.07220) 
 
-1. - [ ] Tetsu Matsukawa, Einoshin Suzuki. "**Person Re-Identification Using CNN Features Learned from Combination of Attributes
+1. - [x] Tetsu Matsukawa, Einoshin Suzuki. "**Person Re-Identification Using CNN Features Learned from Combination of Attributes
 .**" 2016(ICPR). [[pdf]](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/icpr2016.pdf) 
+
+### Local Feature
+1. - [x] Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang. "**Beyond Part Models: Person Retrieval with Refined Part Pooling.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.09349) 
+
+### GAN
+1. - [ ] Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang. "**Camera Style Adaptation for Person Re-identification.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.10295) 
+
