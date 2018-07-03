@@ -4,6 +4,15 @@
 
 ## Segmentation
 1. - [ ] Brazil, Garrick, X. Yin, and X. Liu. "**Illuminating Pedestrians via Simultaneous Detection & Segmentation.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1706.08564) 
+ 
+## Attribute
+1. - [ ] Xihui Liu, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang. "**A Richly Annotated Dataset for Pedestrian Attribute Recognition.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1603.07054) [[dataset]](http://rap.idealtest.org/)
+
+1. - [ ] Xihui Liu, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang. "**Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1611.05603) [[github]](https://github.com/YangZhou1994/WPAL-network)
+
+1. - [ ] Jingya Wang, Xiatian Zhu, Shaogang Gong, Wei Li. "**Attribute Recognition by Joint Recurrent Learning of Context and Correlation.**" arxiv(2017). [[pdf]](https://arxiv.org/abs/1709.08553v1) 
+
+1. - [ ] Kai Yu, Biao Leng, Zhang Zhang, Dangwei Li, Kaiqi Huang. "**HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis.**" arxiv(2017). [[pdf]](https://arxiv.org/abs/1709.09930) [[github]](https://github.com/xh-liu/HydraPlus-Net)
 
 ## Pose Estimation
 1. - [ ] Alejandro Newell, Kaiyu Yang, Jia Deng. "**Stacked Hourglass Networks for Human Pose Estimation.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1603.06937) [[github]](https://github.com/anewell/pose-hg-train)
