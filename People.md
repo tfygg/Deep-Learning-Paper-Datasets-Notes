@@ -13,7 +13,7 @@
 
 1. - [x] Xihui Liu, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang. "**A Richly Annotated Dataset for Pedestrian Attribute Recognition.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1603.07054) [[dataset]](http://rap.idealtest.org/)
 
-1. - [ ] Xihui Liu, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang. "**Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1611.05603) [[github]](https://github.com/YangZhou1994/WPAL-network)
+1. - [ ] Xihui Liu, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang. "**Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1611.05603) [[github]](https://github.com/YangZhou1994/WPAL-network)(**WPAL-network**)
 
 1. - [ ] Jingya Wang, Xiatian Zhu, Shaogang Gong, Wei Li. "**Attribute Recognition by Joint Recurrent Learning of Context and Correlation.**" arxiv(2017). [[pdf]](https://arxiv.org/abs/1709.08553v1) 
 
