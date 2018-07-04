@@ -15,11 +15,11 @@
 
 1. - [ ] Xihui Liu, Haiyu Zhao, Maoqing Tian, Lu Sheng, Jing Shao, Shuai Yi, Junjie Yan, Xiaogang Wang. "**Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1611.05603) [[github]](https://github.com/YangZhou1994/WPAL-network)(**WPAL-network**)
 
+1. - [ ] J Zhu ， S Liao ， Z Lei ， SZ Li. "**Multi-label Convolutional Neural Network Based Pedestrian Attribute Classification.**" IVC(2017). [[pdf]](http://www.cbsr.ia.ac.cn/users/zlei/papers/JQZHU-IVC-2017.pdf) (**MLCNN**)
+
 1. - [ ] Jingya Wang, Xiatian Zhu, Shaogang Gong, Wei Li. "**Attribute Recognition by Joint Recurrent Learning of Context and Correlation.**" arxiv(2017). [[pdf]](https://arxiv.org/abs/1709.08553v1) 
 
 1. - [x] Kai Yu, Biao Leng, Zhang Zhang, Dangwei Li, Kaiqi Huang. "**HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis.**" arxiv(2017). [[pdf]](https://arxiv.org/abs/1709.09930) [[github]](https://github.com/xh-liu/HydraPlus-Net)
-
-1. - [ ] J Zhu ， S Liao ， Z Lei ， SZ Li. "**Multi-label Convolutional Neural Network Based Pedestrian Attribute Classification.**" IVC(2017). [[pdf]](http://www.cbsr.ia.ac.cn/users/zlei/papers/JQZHU-IVC-2017.pdf) (**MLCNN**)
 
 ## Pose Estimation
 1. - [ ] Alejandro Newell, Kaiyu Yang, Jia Deng. "**Stacked Hourglass Networks for Human Pose Estimation.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1603.06937) [[github]](https://github.com/anewell/pose-hg-train)
@@ -41,3 +41,5 @@
 ### GAN
 1. - [ ] Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang. "**Camera Style Adaptation for Person Re-identification.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.10295) 
 
+## Re-rank
+1. - [ ] Zhong Z, Zheng L, Cao D, et al. "**Re-ranking Person Re-identification with k-reciprocal Encoding.**" 2017(CVPR). [[pdf]](https://arxiv.org/abs/1701.08398) 
