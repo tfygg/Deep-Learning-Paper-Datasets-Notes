@@ -19,7 +19,7 @@
 
 1. - [x] Kai Yu, Biao Leng, Zhang Zhang, Dangwei Li, Kaiqi Huang. "**HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis.**" arxiv(2017). [[pdf]](https://arxiv.org/abs/1709.09930) [[github]](https://github.com/xh-liu/HydraPlus-Net)
 
-1. - [ ] J Zhu ， S Liao ， Z Lei ， SZ Li. "**Multi-label Convolutional Neural Network Based Pedestrian Attribute Classification.**" arxiv(2015). [[pdf]](http://www.cbsr.ia.ac.cn/users/zlei/papers/JQZHU-IVC-2017.pdf) (**MLCNN**)
+1. - [ ] J Zhu ， S Liao ， Z Lei ， SZ Li. "**Multi-label Convolutional Neural Network Based Pedestrian Attribute Classification.**" IVC(2017). [[pdf]](http://www.cbsr.ia.ac.cn/users/zlei/papers/JQZHU-IVC-2017.pdf) (**MLCNN**)
 
 ## Pose Estimation
 1. - [ ] Alejandro Newell, Kaiyu Yang, Jia Deng. "**Stacked Hourglass Networks for Human Pose Estimation.**" arxiv(2016). [[pdf]](https://arxiv.org/abs/1603.06937) [[github]](https://github.com/anewell/pose-hg-train)
