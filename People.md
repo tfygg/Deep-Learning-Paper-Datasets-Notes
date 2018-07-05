@@ -34,9 +34,16 @@
 
 1. - [x] Tetsu Matsukawa, Einoshin Suzuki. "**Person Re-Identification Using CNN Features Learned from Combination of Attributes
 .**" 2016(ICPR). [[pdf]](http://www.i.kyushu-u.ac.jp/~matsukawa/ReID_files/icpr2016.pdf) 
+ 
+### Representation learning
+ 
+### Metric learning
+1. - [ ] Weihua Chen, Xiaotang Chen, Jianguo Zhang, Kaiqi Huang. Beyond triplet loss: a deep quadruplet network for person re-identification[J]. arXiv preprint arXiv:1704.01719, 2017.
 
 ### Local Feature
 1. - [x] Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang. "**Beyond Part Models: Person Retrieval with Refined Part Pooling.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.09349) 
+
+### RNN
 
 ### GAN
 1. - [ ] Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang. "**Camera Style Adaptation for Person Re-identification.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.10295) 
