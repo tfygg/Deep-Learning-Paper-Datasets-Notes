@@ -36,6 +36,9 @@
 
 1. - [ ] Jianfeng Wang, Ye Yuan, Boxun Li, Gang Yu, Sun Jian. "**SFace: An Efficient Network for Face Detection in Large Scale Variations**." arXiv:1804.06559(2018). [[pdf]](https://arxiv.org/abs/1804.06559v2)
 
+1. - [ ] Yancheng Bai1, Yongqiang Zhang, Mingli Ding, Bernard Ghanem. "**Finding Tiny Faces in the Wild with Generative Adversarial Network**." CVPR(2018). [[pdf]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
+
+
 ## Alignment & Head pose estimation
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "***Facial landmark detection by deep multi-task learning**." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
 
