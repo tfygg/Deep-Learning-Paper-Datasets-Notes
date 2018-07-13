@@ -46,7 +46,9 @@
 ### RNN
 
 ### GAN
-1. - [ ] Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang. "**Camera Style Adaptation for Person Re-identification.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.10295) 
+1. - [ ] Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang. "**Camera Style Adaptation for Person Re-identification.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1711.10295)
+ 
+1. - [ ] Jianming Lv, Xintong Wang "**Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks.**" 2018(CVPR). [[pdf]](https://arxiv.org/abs/1806.04533) [[github]](https://github.com/Ethanscuter/SimPGAN)
 
 ## Re-rank
 1. - [ ] Zhong Z, Zheng L, Cao D, et al. "**Re-ranking Person Re-identification with k-reciprocal Encoding.**" 2017(CVPR). [[pdf]](https://arxiv.org/abs/1701.08398) 
