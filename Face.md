@@ -74,6 +74,10 @@
 
 
 ## Anti-Spoofing
+1. - [ ] Wen, Di, H. Han, and A. K. Jain. "**Face Spoof Detection With Image Distortion Analysis.**" IEEE Transactions on Information Forensics & Security 10.4(2015):746-761. [[pdf]](http://biometrics.cse.msu.edu/Publications/Face/WenHanJain_FaceSpoofDetection_TIFS15.pdf)(**Image Distortion Analysis**)
+
+1. - [ ] Boulkenafet, Zinelabidine, J. Komulainen, and A. Hadid. "**Face Spoofing Detection Using Colour Texture Analysis.**" IEEE Transactions on Information Forensics & Security 11.8(2016):1818-1830. [[pdf]](http://biometrics.cse.msu.edu/Publications/Face/WenHanJain_FaceSpoofDetection_TIFS15.pdf)(**Colour Texture**)
+
 1. - [x] Galbally, Javier, S. Marcel, and J. Fierrez. "**Image Quality Assessment for Fake Biometric Detection: Application to Iris, Fingerprint, and Face Recognition.**" IEEE Transactions on Image Processing 23.2(2014):710-24. [[pdf]](http://ijmr.net.in/download.php?filename=4mER2rK9kVf1jMq.pdf&new=IJMSS59May3091.pdf)
 
 
