@@ -80,7 +80,10 @@
 
 1. - [ ] Xu, Zhenqi, S. Li, and W. Deng. "**Learning temporal features using LSTM-CNN architecture for face anti-spoofing.**" Pattern Recognition IEEE, 2016:141-145. [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**LSTM-CNN**)
 
-1. - [x] Souza, Gustavo Botelho De, J. P. Papa, and A. N. Marana. "**On the Learning of Deep Local Features for Robust Face Spoofing Detection**." (2018) [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**CNN**)
+1. - [x] Souza, Gustavo Botelho De, J. P. Papa, and A. N. Marana. "**On the Learning of Deep Local Features for Robust Face Spoofing Detection**." (2018) [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**PatchNet**)
+
+1. - [x] Liu, Yaojie, A. Jourabloo, and X. Liu. "Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision." cvpr (2018). [[pdf]](http://cn.arxiv.org/pdf/1803.11097)
+
 
 
 
