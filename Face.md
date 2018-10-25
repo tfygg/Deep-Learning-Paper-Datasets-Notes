@@ -65,7 +65,7 @@
 1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization.**" (2018). [[pdf]](https://arxiv.org/abs/1801.09242)[[github]](https://github.com/HongwenZhang/JVCR-3Dlandmark)(**JVCR-3Dlandmark**)
 
 ### Dense
-1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Dense Face Alignment**." ICCVW(2017). [[pdf]](https://arxiv.org/abs/1709.01442)(**DFA**)
+1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Dense Face Alignment**." ICCVW(2017). [[pdf]](https://arxiv.org/abs/1709.01442)[[home]](http://cvlab.cse.msu.edu/project-pifa.html)(**DFA**)
 
 1. - [ ] Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, Xi Zhou. "**Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1709.01442)[[github]](https://github.com/YadiraF/PRNet)(**PRNet**)
 
