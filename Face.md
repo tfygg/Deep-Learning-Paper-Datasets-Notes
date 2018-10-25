@@ -58,9 +58,16 @@
 1. - [ ] Dong, Xuanyi and Yan, Yan and Ouyang, Wanli and Yang, Yi. "**Style Aggregated Network for Facial Landmark Detection.**" (2018). [[pdf]](https://arxiv.org/abs/1803.04108)[[github]](https://github.com/D-X-Y/SAN)(**SAN**)
 
 ### 3D
+1. - [x] Xiangyu Zhu, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li. "**Face Alignment Across Large Poses: A 3D Solution**" (2015). [[pdf]](https://arxiv.org/abs/1511.07212)(**3DDFA**)
+
 1. - [x] Adrian Bulat and Georgios Tzimiropoulos. "**How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.07332)(**FAN**)
 
 1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization.**" (2018). [[pdf]](https://arxiv.org/abs/1801.09242)[[github]](https://github.com/HongwenZhang/JVCR-3Dlandmark)(**JVCR-3Dlandmark**)
+
+### Dense
+1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Dense Face Alignment**." ICCVW(2017). [[pdf]](https://arxiv.org/abs/1709.01442)(**DFA**)
+
+1. - [ ] Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, Xi Zhou. "**Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1709.01442)[[github]](https://github.com/YadiraF/PRNet)(**PRNet**)
 
 **Review**
 1. - [x] Jin, Xin, and X. Tan. "**Face Alignment In-the-Wild: A Survey.**" Computer Vision & Image Understanding (2017). [[pdf]](https://arxiv.org/abs/1608.04188)
