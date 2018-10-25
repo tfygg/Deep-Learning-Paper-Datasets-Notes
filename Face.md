@@ -41,14 +41,13 @@
 1. - [ ] Jian Li, Yabiao Wang, Changan Wang, Ying Tai, Jianjun Qian, Jian Yang, Chengjie Wang, Jilin Li, Feiyue Huang. "**DSFD: Dual Shot Face Detector**." CVPR(2018). [[pdf]](https://arxiv.org/abs/1810.10220)(**DSFD**)
 
 
-## Alignment & Head pose estimation
+## Alignment
+### 2D
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "***Facial landmark detection by deep multi-task learning**." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
 
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "**Learning Deep Representation for Face Alignment with Auxiliary Attributes**." TPAMI(2015). [[pdf]](https://arxiv.org/abs/1408.3967)(**FAAA**)
 
 1. - [x] Wu, Yue, and T. Hassner. "**Facial Landmark Detection with Tweaked Convolutional Neural Networks**." Computer Science(2015). [[pdf]](https://arxiv.org/abs/1511.04031)(**Vanilla CNN**)
-
-1. - [x] Adrian Bulat and Georgios Tzimiropoulos. "**How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.07332)(**FAN**)
 
 1. - [x] Wu, Yue, C. Gou, and Q. Ji. "**Simultaneous Facial Landmark Detection, Pose and Deformation Estimation under Facial Occlusion.**" CVPR(2017). [[pdf]](https://arxiv.org/abs/1709.08130)
 
@@ -56,14 +55,20 @@
 
 1. - [x] Adrian Bulat, Georgios Tzimiropoulos. "**Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources.**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.00862)[[github]](https://github.com/1adrianb/binary-human-pose-estimation)
 
-1. - [x] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)[[github]](https://github.com/natanielruiz/deep-head-pose)
+1. - [ ] Dong, Xuanyi and Yan, Yan and Ouyang, Wanli and Yang, Yi. "**Style Aggregated Network for Facial Landmark Detection.**" (2018). [[pdf]](https://arxiv.org/abs/1803.04108)[[github]](https://github.com/D-X-Y/SAN)(**SAN**)
+
+### 3D
+1. - [x] Adrian Bulat and Georgios Tzimiropoulos. "**How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)**" ICCV(2017). [[pdf]](https://arxiv.org/abs/1703.07332)(**FAN**)
 
 1. - [ ] Hongwen Zhang, Qi Li, Zhenan Sun. "**Joint Voxel and Coordinate Regression for Accurate 3D Facial Landmark Localization.**" (2018). [[pdf]](https://arxiv.org/abs/1801.09242)[[github]](https://github.com/HongwenZhang/JVCR-3Dlandmark)(**JVCR-3Dlandmark**)
 
-1. - [ ] Dong, Xuanyi and Yan, Yan and Ouyang, Wanli and Yang, Yi. "**Style Aggregated Network for Facial Landmark Detection.**" (2018). [[pdf]](https://arxiv.org/abs/1803.04108)[[github]](https://github.com/D-X-Y/SAN)(**SAN**)
-
 **Review**
 1. - [x] Jin, Xin, and X. Tan. "**Face Alignment In-the-Wild: A Survey.**" Computer Vision & Image Understanding (2017). [[pdf]](https://arxiv.org/abs/1608.04188)
+
+
+## Head pose estimation
+1. - [x] Ruiz, Nataniel, E. Chong, and J. M. Rehg. "**Fine-Grained Head Pose Estimation Without Keypoints.**" (2017). [[pdf]](https://arxiv.org/abs/1710.00925)[[github]](https://github.com/natanielruiz/deep-head-pose)
+
 
 ## Quality Assessment
 1. - [x] Chen, Jiansheng, et al. "**Face Image Quality Assessment Based on Learning to Rank.**" IEEE Signal Processing Letters 22.1(2014):90-94. [[pdf]](http://pdfs.semanticscholar.org/a1f4/0bcfadbeee66f67ab0755dd3037c030a7450.pdf)
