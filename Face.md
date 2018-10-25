@@ -38,6 +38,8 @@
 
 1. - [ ] Yancheng Bai1, Yongqiang Zhang, Mingli Ding, Bernard Ghanem. "**Finding Tiny Faces in the Wild with Generative Adversarial Network**." CVPR(2018). [[pdf]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
 
+1. - [ ] Jian Li, Yabiao Wang, Changan Wang, Ying Tai, Jianjun Qian, Jian Yang, Chengjie Wang, Jilin Li, Feiyue Huang. "**DSFD: Dual Shot Face Detector**." CVPR(2018). [[pdf]](https://arxiv.org/abs/1810.10220)(**DSFD**)
+
 
 ## Alignment & Head pose estimation
 1. - [x] Zhang Z, Luo P, Loy CC, Tang X. "***Facial landmark detection by deep multi-task learning**." ECCV(2014). [[pdf]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)(**TCDCN**)
