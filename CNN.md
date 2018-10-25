@@ -52,6 +52,9 @@
 
 1. - [ ] Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan. "**Towards High Performance Video Object Detection for Mobiles**." . [[pdf]](https://arxiv.org/abs/1804.05830)
 
+1. - [ ] Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang. "**Acquisition of Localization Confidence for Accurate Object Detection**." ECCV(2018) [[pdf]](https://arxiv.org/abs/1807.11590)[[github]](https://github.com/vacancy/PreciseRoIPooling)(**IOUNet**)
+
+
 #### One stage
 1. - [x] Liu, Wei, et al. "**SSD: Single Shot MultiBox Detector**." arXiv preprint arXiv:1512.02325 (2015). [[pdf]](http://arxiv.org/pdf/1512.02325)(**SSD**)
 
