@@ -102,8 +102,6 @@
 
 1. - [ ] Xiao Song, Xu Zhao, Liangji Fang, Tianwei Lin. "**Discriminative Representation Combinations for Accurate Face Spoofing Detection**." arxiv(2018). [[pdf]](https://arxiv.org/abs/1808.08802)
 
- "" 
-
 
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
