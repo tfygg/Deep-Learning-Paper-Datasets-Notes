@@ -69,6 +69,10 @@
 
 1. - [ ] Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, Xi Zhou. "**Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1709.01442)[[github]](https://github.com/YadiraF/PRNet)(**PRNet**)
 
+1. - [ ] Xiangyu Zhu, Xiaoming Liu, Zhen Lei, Stan Z. Li. "**Face Alignment in Full Pose Range: A 3D Total Solution**." arxiv(2018). [[pdf]](https://arxiv.org/abs/1804.01005)[[github]](https://github.com/cleardusk/3DDFA)(**3DDFA**)
+
+
+
 **Review**
 1. - [x] Jin, Xin, and X. Tan. "**Face Alignment In-the-Wild: A Survey.**" Computer Vision & Image Understanding (2017). [[pdf]](https://arxiv.org/abs/1608.04188)
 
