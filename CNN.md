@@ -24,6 +24,7 @@
 1. - [x] Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng et al. "**Dual Path Networks**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1707.01629) (**DPN**)
 
 ## Detection
+[[awesome-object-detection]](https://github.com/amusi/awesome-object-detection)
 ### 2D
 #### Two Stage
 1. - [x] Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." CVPR(2014). [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper) (**RCNN**) 
