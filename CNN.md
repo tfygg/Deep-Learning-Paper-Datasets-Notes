@@ -79,6 +79,7 @@
 1. - [ ] Chen, Xiaozhi, et al. "**Monocular 3D Object Detection for Autonomous Driving, 2016:2147-2156.**." CVPR(2016). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf) 
 
 ## Segmentation
+[[awesome-semantic-segmentation]](https://github.com/mrgloom/awesome-semantic-segmentation)
 ### Segmantic
 1. - [x] Long, Jonathan, E. Shelhamer, and T. Darrell. "**Fully convolutional networks for semantic segmentation**." EEE Conference on Computer Vision and Pattern Recognition IEEE Computer Society(2015). [[pdf]](https://arxiv.org/abs/1411.4038v2) (**FCN**)
 
