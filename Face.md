@@ -128,6 +128,8 @@
 
 1. - [ ] Deng, Jiankang, J. Guo, and S. Zafeiriou. "**ArcFace: Additive Angular Margin Loss for Deep Face Recognition.**" (2018).[[pdf]](https://arxiv.org/abs/1801.07698) (**ArcFace**)
 
+###
+1. - [ ] Mei Wang, Weihong Deng. "**Deep Face Recognition: A Survey.**" arxiv(2018).[[pdf]](https://arxiv.org/abs/1804.06655) 
 
 ## Review
 1. - [ ] Baltru Aitis, Tadas, P. Robinson, and L. P. Morency.  "**OpenFace: An open source facial behavior analysis toolkit.**" IEEE Winter Conference on Applications of Computer Vision IEEE, 2016:1-10. [[pdf]](https://pdfs.semanticscholar.org/a276/6412073f9016e36212052f6192bd2bc8cc2c.pdf) (**OpenFace**)
