@@ -128,7 +128,7 @@
 
 1. - [ ] Deng, Jiankang, J. Guo, and S. Zafeiriou. "**ArcFace: Additive Angular Margin Loss for Deep Face Recognition.**" (2018).[[pdf]](https://arxiv.org/abs/1801.07698) (**ArcFace**)
 
-###
+### Review
 1. - [ ] Mei Wang, Weihong Deng. "**Deep Face Recognition: A Survey.**" arxiv(2018).[[pdf]](https://arxiv.org/abs/1804.06655) 
 
 ## Review
