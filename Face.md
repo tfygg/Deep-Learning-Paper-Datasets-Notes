@@ -130,6 +130,8 @@
 
 1. - [ ] Deng, Jiankang, J. Guo, and S. Zafeiriou. "**ArcFace: Additive Angular Margin Loss for Deep Face Recognition.**" (2018).[[pdf]](https://arxiv.org/abs/1801.07698) (**ArcFace**)
 
+1. - [ ] Deng, Jiankang, J. Guo, and S. Zafeiriou. "**DocFace: Matching ID Document Photos to Selfies.**" (2018).[[pdf]](https://arxiv.org/abs/1809.05620v2) [[github]](https://github.com/seasonSH/DocFace)(**DocFace+**)
+
 ### Review
 1. - [ ] Mei Wang, Weihong Deng. "**Deep Face Recognition: A Survey.**" arxiv(2018).[[pdf]](https://arxiv.org/abs/1804.06655) 
 
