@@ -2,7 +2,7 @@
 
 ## Computer vision
 
-### CNN/RNN/Attention...
+### Base
 
 - [RNN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/RNN.md)
 
