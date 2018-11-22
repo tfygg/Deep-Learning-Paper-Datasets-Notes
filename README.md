@@ -22,9 +22,6 @@
 
 - [StyleTransfer](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/StyleTransfer.md)
 
-
-### GAN
-
 - [GAN](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/GAN.md)
 
 
