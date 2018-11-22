@@ -1,8 +1,12 @@
 # GAN
 
+[[awesome-GAN]](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
 ## Base
 
 1. - [ ] Alec Radford, Luke Metz, Soumith Chintala. "**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.**" ICLR (2016). [[pdf]](https://arxiv.org/abs/1511.06434)  (**dcgan**)
+
+1. - [ ] Martin Arjovsky, Soumith Chintala, Léon Bottou. "**Wasserstein GAN.**" arxiv (2017). [[pdf]](https://arxiv.org/abs/1701.07875)  (**wgan**)
 
 
 ## Facial Attribute
