@@ -1,6 +1,6 @@
 # GAN
 
-[[awesome-GAN]](https://github.com/zhangqianhui/AdversarialNetsPapers)
+[[AdversarialNets]](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
 ## Base
 
