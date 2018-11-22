@@ -34,7 +34,7 @@
 
 - [ocr/str/sts](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/OCR.md)
 
-- [Human](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Human.md)
+- [People](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/People.md)
 
 
 
