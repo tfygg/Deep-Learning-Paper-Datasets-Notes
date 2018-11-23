@@ -1,3 +1,7 @@
+## NLP
+1. - [ ] Xu, Kelvin, et al.  "**Show, attend and tell: Neural image caption generation with visual attention**." arxiv(2015).[pdf](arXiv preprint arXiv:1502.03044)
+
+
 ## Classificion
 1. - [ ] Fu, Jianlong, H. Zheng, and T. Mei. "**Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-Grained Image Recognition**." CVPR(2017).[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
 
