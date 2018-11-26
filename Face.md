@@ -100,7 +100,7 @@
 
 1. - [x] Souza, Gustavo Botelho De, J. P. Papa, and A. N. Marana. "**On the Learning of Deep Local Features for Robust Face Spoofing Detection**." (2017) [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**PatchNet**)
 
-1. - [ ] Atoum, Yousef, et al. "**Face anti-spoofing using patch and depth-based CNNs.**." IEEE International Joint Conference on Biometrics IEEE.(2018). [[pdf]](http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf)
+1. - [ ] Atoum, Yousef, et al. "**Face anti-spoofing using patch and depth-based CNNs.**." IJCB(2017). [[pdf]](http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf)
 
 1. - [x] Liu, Yaojie, A. Jourabloo, and X. Liu. "**Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision**." cvpr(2018). [[pdf]](http://cn.arxiv.org/pdf/1803.11097)
 
