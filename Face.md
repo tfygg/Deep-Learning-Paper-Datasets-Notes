@@ -108,6 +108,8 @@
 
 1. - [ ] Lei Li, Zhaoqiang Xia, Abdenour Hadid, Xiaoyue Jiang, Fabio Roli, Xiaoyi Feng. "**Face Presentation Attack Detection in Learned Color-liked Space**." arxiv(2018). [[pdf]](https://arxiv.org/abs/1810.13170v1)
 
+1. - [ ] Amin Jourabloo, Yaojie Liu, Xiaoming Liu. "**Face De-Spoofing: Anti-Spoofing via Noise Modeling**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1807.09968)
+
 
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
