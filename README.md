@@ -8,8 +8,7 @@
 
 - [Attention](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Attention.md)
 
-- [Classification](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV.md)
-
+- [Classification]  [image](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md) [video](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Video.md)
 - [Detection](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV.md)
 
 - [Segmention](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV.md)
