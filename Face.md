@@ -110,6 +110,8 @@
 
 1. - [ ] Amin Jourabloo, Yaojie Liu, Xiaoming Liu. "**Face De-Spoofing: Anti-Spoofing via Noise Modeling**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1807.09968)
 
+1. - [ ] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li. "**CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-Spoofing**." arXic(2018)(**CASIA-SURF**). [[pdf]](http://export.arxiv.org/abs/1812.00408?from=timeline)
+
 
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
