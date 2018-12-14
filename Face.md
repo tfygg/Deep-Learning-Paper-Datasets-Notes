@@ -96,7 +96,7 @@
 
 1. - [x] Wen, Di, H. Han, and A. K. Jain. "**Face Spoof Detection With Image Distortion Analysis.**" IEEE Transactions on Information Forensics & Security 10.4(2015):746-761. [[pdf]](http://biometrics.cse.msu.edu/Publications/Face/WenHanJain_FaceSpoofDetection_TIFS15.pdf)(**Image Distortion Analysis**)
 
-1. - [ ] Xu, Zhenqi, S. Li, and W. Deng. "**Learning temporal features using LSTM-CNN architecture for face anti-spoofing.**" Pattern Recognition IEEE, 2016:141-145. [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**LSTM-CNN**)
+1. - [x] Xu, Zhenqi, S. Li, and W. Deng. "**Learning temporal features using LSTM-CNN architecture for face anti-spoofing.**" Pattern Recognition IEEE, 2016:141-145. [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**LSTM-CNN**)
 
 1. - [x] Souza, Gustavo Botelho De, J. P. Papa, and A. N. Marana. "**On the Learning of Deep Local Features for Robust Face Spoofing Detection**." (2017) [[pdf]](http://xueshu.baidu.com/s?wd=paperuri:(8cc519e4e0a903839f7f419a3392af97)&filter=sc_long_sign&sc_ks_para=q%3DLearning+temporal+features+using+LSTM-CNN+architecture+for+face+anti-spoofing&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=14896666276611485563)(**PatchNet**)
 
@@ -110,7 +110,7 @@
 
 1. - [x] Amin Jourabloo, Yaojie Liu, Xiaoming Liu. "**Face De-Spoofing: Anti-Spoofing via Noise Modeling**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1807.09968)
 
-1. - [ ] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li. "**CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-Spoofing**." arXic(2018)(**CASIA-SURF**). [[pdf]](http://export.arxiv.org/abs/1812.00408?from=timeline)
+1. - [x] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li. "**CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-Spoofing**." arXic(2018)(**CASIA-SURF**). [[pdf]](http://export.arxiv.org/abs/1812.00408?from=timeline)
 
 
 ## Recognition
