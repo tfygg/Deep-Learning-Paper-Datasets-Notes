@@ -5,4 +5,5 @@
 
 1. - [ ] Limin Wang, Wei Li, Wen Li, Luc Van Gool. "**Appearance-and-Relation Networks for Video Classification**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.09125)[[github]](https://github.com/wanglimin/ARTNet) (**ARTNet**)
 
+1. - [ ] Bolei Zhou, Alex Andonian, Antonio Torralba. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.08496v1)[[github]](https://github.com/metalbubble/TRN-pytorch) (**TRN**)
 
