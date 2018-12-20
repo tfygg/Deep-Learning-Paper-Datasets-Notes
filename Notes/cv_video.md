@@ -2,9 +2,9 @@
 
 ## Video Classification/Action Recognition
 
-[Video Classification] videos can contain more than one activity, and typically large time lapses of the video are not related with any activity of interest.
+**Video Classification** : videos can contain more than one activity, and typically large time lapses of the video are not related with any activity of interest.
 
-[Action Recognition] videos contain a single activity, and all the clips have a standard duration of ten seconds.
+**Action Recognition** : videos contain a single activity, and all the clips have a standard duration of ten seconds.
 
 1. - [x] Limin Wang, Yuanjun Xiong, Zhe Wang, Yu Qiao, Dahua Lin, Xiaoou Tang, and Luc Van Gool. "**Temporal Segment Networks: Towards Good Practices for Deep Action Recognition**." ECCV 2016. [[pdf]](https://arxiv.org/abs/1608.00859)[[github]](https://github.com/yjxiong/temporal-segment-networks) (**TSN**)
 
