@@ -10,29 +10,29 @@
 
 
 1. - [x] Limin Wang, Wei Li, Wen Li, Luc Van Gool. "**Appearance-and-Relation Networks for Video Classification**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.09125)[[github]](https://github.com/wanglimin/ARTNet) (**ARTNet**)
-    
+
      + Introduction
      Video Classification的三种框架：
         * two-stream CNN 
         * 3D CNNs 
         * 2D CNNs + 时序模型如LSTM，时域卷积，稀疏采样和聚合，attention等
        
-        ![Alt text](cv_video/ARN.png)
+        ![Alt text](assets/ARN.png)
 
      Two-stream CNN 通过两个分支来捕获appearance和motion的信息，这对于video classification是比较有效的。但是它要训练两个网络比较费时，且需要提前提取optical flow也很耗时。
-     
+
      3D CNNs利用3D conv和3D pooling直接从RGB的堆叠序列中学习到时空域的特征。但是3D CNN的效果还是比two-stream要稍差一些，这可能说明了：3D的结构可能并不能够有效地同时对表观信息和时序关系进行建模。
-     
+
      2D CNNs + 时序模型 通常在提取粗糙的长时的时序结构上表现的比较好，对于提取短时的精细的时序关系表现得不太好。
-     
+
      + Contribution
         * SMART block能够同时对appearance和relation建模；
         * ARTNet是通过堆叠多个SMART blocks得到的，可以从不同尺度对appearance和relation进行建模 ，这也使得SMART block的参数优化可以end-to-end地进行。
         * ARTNet在Kinetics上实验的结果表明，仅通过RGB的输入，train from scratch，能够达到state-of-the-art的性能。
 
      + Spatiotemporal Feature Learning
-     
-        ![Alt text](cv_video/ARN_blocks.png)
+
+        ![Alt text](assets/ARN_blocks.png)
 
 
 1. - [x] Brian Zhang, Joao Carreira, Viorica Patraucean and at al. "**Qua Vadis, Action Recognition? A New Model and the Kinetics Dataset**." CVPR 2017. [[pdf]](https://arxiv.org/abs/1705.077509)[[github]](https://github.com/deepmind/kinetics-i3d/) (**kinetics-i3d**)
@@ -43,9 +43,9 @@
 
      + Action Classification Architectures      
 
-        ![Alt text](cv_video/I3D.png)
+        ![Alt text](assets/I3D.png)
 
-        ![Alt text](cv_video/I3D_models.png)
+        ![Alt text](assets/I3D_models.png)
 
         * ConvNet + LSTM
         * 3D ConvNet: 相比于2D，参数更多，也就更难训练（因为数据量不足）
@@ -55,9 +55,9 @@
 
      + Experimental Comparison of Architectures
 
-        ![Alt text](cv_video/I3D_result1.png)
+        ![Alt text](assets/I3D_result1.png)
 
-        ![Alt text](cv_video/I3D_result2.png)
+        ![Alt text](assets/I3D_result2.png)
 
 1. - [x] Bolei Zhou, Alex Andonian, Antonio Torralba. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.08496v1)[[github]](https://github.com/metalbubble/TRN-pytorch) (**TRN**)
 
@@ -65,7 +65,7 @@
 
         时间关系推理（Temporal relational reasoning）是指理解物体／实体在时间域的变化关系的能力。受启发于Relation Network，本文提出了TRN，用于学习和推理视频帧之间的时间依赖关系。
 
-        ![Alt text](cv_video/TRN.png)
+        ![Alt text](assets/TRN.png)
 
      + Dataset
 
@@ -73,7 +73,7 @@
 
        UCF101和Kinetics两个数据集是从Youtube上下载视频然后进行标注的。而Something-Something，Jester，Charades则是完全靠人工根据给定的动作类别来完成动作，所以有清楚的动作开始和结束的分界点，对于说明temporal relational reasoning的重要性有更加好的效果。
 
-       ![Alt text](cv_video/TRN_dataset.png)
+       ![Alt text](assets/TRN_dataset.png)
 
 1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocal**)
 
@@ -94,7 +94,7 @@
 
         * C(x)为归一化因子
 
-        ![Alt text](cv_video/NonLocal.png)
+        ![Alt text](assets/NonLocal.png)
 
         * 首先对输入的 feature map X 进行线性映射（说白了就是 1*1*1 卷积，来压缩通道数），然后得到特征 $ \theta$，$\phi$，g；
         * 通过reshape操作，强行合并上述的三个特征除通道数外的维度，然后对 $ \theta$ 和 $\phi$  进行矩阵点乘操作，得到类似协方差矩阵的东西（这个过程很重要，计算出特征中的自相关性，即得到每帧中每个像素对其他所有帧所有像素的关系）；
