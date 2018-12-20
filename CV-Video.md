@@ -11,7 +11,7 @@
 
 1. - [x] Bolei Zhou, Alex Andonian, Antonio Torralba. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.08496v1)[[github]](https://github.com/metalbubble/TRN-pytorch) (**TRNNet**)
 
-1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocalNet**)
+1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocal**)
 
 
 ## Dataset

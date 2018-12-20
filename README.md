@@ -1,4 +1,4 @@
-# Deep-Learning-Papers-List
+# Deep-Learning-Paper-Notes
 
 ## Computer vision
 
@@ -8,9 +8,9 @@
 
 - [Attention](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/Attention.md)
 
-- [Classification]  [image](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)/[video](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Video.md)
+- Classification - [image](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)/[video](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Video.md)
 
-- [retrieval]
+- retrieval
 
 - [Detection](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)
 
@@ -34,8 +34,4 @@
 - [ocr/str/sts](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/OCR.md)
 
 - [People](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/People.md)
-
-
-
-
 
