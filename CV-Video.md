@@ -1,7 +1,9 @@
 # Computer Vision - Video
 
-## Classification
+## Video Classification/Action Recognition
 1. - [x] Limin Wang, Yuanjun Xiong, Zhe Wang, Yu Qiao, Dahua Lin, Xiaoou Tang, and Luc Van Gool. "**Temporal Segment Networks: Towards Good Practices for Deep Action Recognition**." ECCV 2016. [[pdf]](https://arxiv.org/abs/1608.00859)[[github]](https://github.com/yjxiong/temporal-segment-networks) (**TSN**)
+
+1. - [x] Brian Zhang, Joao Carreira, Viorica Patraucean and at al. "**Qua Vadis, Action Recognition? A New Model and the Kinetics Dataset**." CVPR 2017. [[pdf]](https://arxiv.org/abs/1705.077509)[[github]](https://github.com/deepmind/kinetics-i3d/) (**kinetics-i3d**)
 
 1. - [ ] Limin Wang, Wei Li, Wen Li, Luc Van Gool. "**Appearance-and-Relation Networks for Video Classification**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.09125)[[github]](https://github.com/wanglimin/ARTNet) (**ARTNet**)
 
