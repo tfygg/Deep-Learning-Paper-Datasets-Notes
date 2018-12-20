@@ -10,6 +10,8 @@
 
 - [Classification]  [image](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)/[video](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Video.md)
 
+- [retrieval]
+
 - [Detection](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)
 
 - [Segmention](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)
