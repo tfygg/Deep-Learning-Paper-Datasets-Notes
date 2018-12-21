@@ -75,7 +75,7 @@
 
        ![Alt text](assets/TRN_dataset.png)
 
-1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocal**)
+1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Non-local Neural Networks for Video Classification**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocal**)
 
       + Contribution
 
