@@ -13,7 +13,9 @@
 
 1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Non-local Neural Networks for Video Classification**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocal**)
 
-1. - [x] Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov. "**A Closer Look at Spatiotemporal Convolutions for Action Recognition**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.11248)[[github]](https://github.com/facebookresearch/VMZ) (**R(2+1)D**)
+1. - [ ] Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov. "**A Closer Look at Spatiotemporal Convolutions for Action Recognition**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.11248)[[github]](https://github.com/facebookresearch/VMZ) (**R(2+1)DNet**)
+
+1. - [ ] Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He. "**SlowFast Networks for Video Recognition**." arxiv 2018. [[pdf]](**SlowFastNet**)
 
 
 ## Dataset
