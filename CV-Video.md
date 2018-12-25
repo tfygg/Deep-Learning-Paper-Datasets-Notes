@@ -10,7 +10,7 @@
 1. - [x] Bolei Zhou, Alex Andonian, Antonio Torralba. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.08496v1)[[github]](https://github.com/metalbubble/TRN-pytorch) (**TRNNet**)
 
 ### CNN+RNN
-1. - [ ] Donahue, J., et al. “Long-term recurrent convolutional networks for visual recognition and description.” Computer Vision and Pattern Recognition IEEE, 2015.[[pdf]](https://arxiv.org/abs/1411.4389)(LRCN)
+1. - [ ] Donahue, J., et al. “Long-term recurrent convolutional networks for visual recognition and description.” Computer Vision and Pattern Recognition IEEE, 2015.[[pdf]](https://arxiv.org/abs/1411.4389)(**LRCN**)
 
 1. - [ ] Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov. "**Action Recognition using Visual Attention**." arxiv 2016. [[pdf]](http://arxiv.org/abs/1511.04119)[[github]](https://github.com/kracwarlock/action-recognition-visual-attention) (**LstmAttention**)
 
