@@ -15,9 +15,9 @@
 
 1. - [ ] Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov. "**A Closer Look at Spatiotemporal Convolutions for Action Recognition**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.11248)[[github]](https://github.com/facebookresearch/VMZ) (**R(2+1)DNet**)
 
-1. - [ ] Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He. "**Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification**." ECCV2018 [[pdf]](https://arxiv.org/abs/1712.04851) (**SlowFastNet**)
+1. - [x] Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He. "**Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification**." ECCV2018 [[pdf]](https://arxiv.org/abs/1712.04851) (**S3DNet**)
 
-1. - [ ] Saining Xie, Chen Sun, Jonathan Huang, Zhuowen Tu, Kevin Murphy. "**SlowFast Networks for Video Recognition**." arxiv 2018. [[pdf]](https://arxiv.org/abs/1812.03982)(**S3DNet**)
+1. - [x] Saining Xie, Chen Sun, Jonathan Huang, Zhuowen Tu, Kevin Murphy. "**SlowFast Networks for Video Recognition**." arxiv 2018. [[pdf]](https://arxiv.org/abs/1812.03982)(**SlowFastNet**)
 
 
 ## Dataset
