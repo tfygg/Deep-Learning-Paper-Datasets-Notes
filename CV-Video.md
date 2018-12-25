@@ -15,6 +15,8 @@
 1. - [ ] Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov. "**Action Recognition using Visual Attention**." arxiv 2016. [[pdf]](http://arxiv.org/abs/1511.04119)[[github]](https://github.com/kracwarlock/action-recognition-visual-attention) (**LstmAttention**)
 
 ### 3D conv
+1. - [x] Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri. "**Learning Spatiotemporal Features with 3D Convolutional Networks**." arxiv 2014. [[pdf]](https://arxiv.org/abs/1412.0767)(**c3d**)
+
 1. - [x] Joao Carreira, Andrew Zisserman. "**Qua Vadis, Action Recognition? A New Model and the Kinetics Dataset**." CVPR 2017. [[pdf]](https://arxiv.org/abs/1705.077509)[[github]](https://github.com/deepmind/kinetics-i3d/) (**kinetics-i3d**)
 
 1. - [x] Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. "**Non-local Neural Networks for Video Classification**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.07971v1)[[github]](https://github.com/facebookresearch/video-nonlocal-net) (**NonLocal**)
