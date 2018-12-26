@@ -9,6 +9,9 @@
 
 1. - [x] Bolei Zhou, Alex Andonian, Antonio Torralba. "**Temporal Relational Reasoning in Videos**." CVPR 2018. [[pdf]](https://arxiv.org/abs/1711.08496v1)[[github]](https://github.com/metalbubble/TRN-pytorch) (**TRNNet**)
 
+1. - [x] Zolfaghari M, Singh K, Brox T. "**ECO: Efficient Convolutional Network for Online Video Understanding**." ECCV 2018. [[pdf]](https://arxiv.org/abs/1804.09066)[[github]](https://github.com/mzolfaghari/ECO-pytorch) (**ECO**)
+
+
 ### CNN+RNN
 1. - [ ] Donahue, J., et al. “Long-term recurrent convolutional networks for visual recognition and description.” Computer Vision and Pattern Recognition IEEE, 2015.[[pdf]](https://arxiv.org/abs/1411.4389)(**LRCN**)
 
