@@ -10,7 +10,7 @@
 
 - Classification - [image](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)/[video](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Video.md)
 
-- retrieval
+- Retrieval
 
 - [Detection](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/CV-Image.md)
 
