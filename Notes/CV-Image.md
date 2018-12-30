@@ -99,7 +99,49 @@
 ## Caption
 1. - [ ] Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio. "**Explain Images with Multimodal Recurrent Neural Networks**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1406.1078) (**Encoder-Decoder**)
 
-1. - [ ] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. "**Show and Tell: A Neural Image Caption Generator**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1411.4555) (**NIC**)
+1. - [x] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. "**Show and Tell: A Neural Image Caption Generator**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1411.4555) (**NIC**)
+
+
+
+     Image Caption的神经网络学习可以用数学公式概括为:
+
+     ​						$$\theta^* = arg\, \max_{\theta} \sum_{I,S}logp(S|I,\theta)  $$
+
+     其中I为图片，S为生成的句子，θ为网络需要学习的参数，这个公式的含义指的是：学习最佳的网络参数θ最大化在给定图片下其生成正确描述的概率。同时由于语言句子的长度是不定长的，所以一般将其概率用链式法则写成：
+
+     ​						$$ logp(S|I)= \sum_{t=0}^Nlogp(S_t|I,S_{0},...,S_{t-1})$$
+
+     ![](assets/NIC.jpg)
+
+     ​	
+
+     * 训练：其目标是更新LSTM，CNN和词嵌入模型W的参数。
+
+     ​									$$ x_{-1} = CNN(I)$$
+
+     ​									$$x_t=W_e*S_t$$
+
+     ​									$$p_{t+1}=LSTM(x_t)$$
+
+     ​        图像I只在t = -1时输入一次，以通知LSTM图像内容。经验证实，在每个时间步将图像馈送作为额外输入产生较差的结果，因为网络可以明确地利用图像中的噪声。在LSTM后会接一个softmax，分类的数量等于语料库里的词汇量。训练过程有如下几个问题需要注意：
+
+     ​      （1）训练有两个阶段：第一阶段只训练word embedding和LSTM，第二阶段再联合CNN一起训练；
+
+     ​      （2）训练集中每次词保证不少于5次；
+
+     * 测试：先用encoder进行图像的encoding，接着把image vec输入到LSTM中，这时有两种语言生成模式：
+
+       （1）选择LSTM输出概率最大的那个，直到预测end为止；
+
+       （2）beam search：迭代地考虑直到时间t的k个最佳句子的集合作为生成大小为t + 1的句子的候选者，并且仅保留它们的结果最好的k。
+
+     * 训练与预测的矛盾：训练时，除LSTM的第一步外，每一步输入都是正确label的单词，而预测时，输入的是前一步预测的词，也就是说预测和训练时不统一的。
+
+       （1）beam search可以起到一定的改善效果；
+
+       （2）训练初期，为了加快收敛，使用正确的label；后期逐渐加大预测单词作为输入的比例，以达到在模型训练结束时，训练过程和预测过程接近。
+
+       （3）值得注意的是，一直使用模型自身预测的结果作为输入效果会很差。
 
 1. - [ ] Kelvin Xu, Jimmy Ba, Ryan Kiros, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio. "**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**." arxiv (2015). [[pdf]](https://arxiv.org/abs/1502.03044v1) (**ShowAttTell**)
 
