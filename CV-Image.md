@@ -97,6 +97,9 @@
 
 
 ## Caption
+
+[[awesome]]https://github.com/zhjohnchan/awesome-image-captioning
+
 1. - [ ] Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio. "**Explain Images with Multimodal Recurrent Neural Networks**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1406.1078) (**Encoder-Decoder**)
 
 1. - [ ] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. "**Show and Tell: A Neural Image Caption Generator**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1411.4555) (**NIC**)
