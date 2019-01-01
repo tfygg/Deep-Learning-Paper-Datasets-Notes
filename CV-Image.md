@@ -107,6 +107,9 @@
 1. - [ ] Kelvin Xu, Jimmy Ba, Ryan Kiros, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio. "**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**." arxiv (2015). [[pdf]](https://arxiv.org/abs/1502.03044v1) (**ShowAttTell**)
 
 
+## Visual Question Answering
+
+[[awesome]](https://github.com/JamesChuanggg/awesome-vqa)
 
 
 
