@@ -6,6 +6,8 @@
 1. - [ ] Minh-Thang Luong, Hieu Pham, Christopher D. Manning "**Effective Approaches to Attention-based Neural Machine Translation**." arxiv(2015).[pdf](https://arxiv.org/abs/1508.04025v3)
 
 ## Self Attention
+1. - [ ] Jianpeng Cheng, Li Dong and Mirella Lapata "**Long Short-Term Memory-Networks for Machine Reading**." arxiv(2016).[pdf](https://arxiv.org/abs/1601.06733)
+
 1. - [ ] Minh-Thang Luong, Hieu Pham, Christopher D. Manning "**Attention Is All You Need**." arxiv(2017).[pdf](https://arxiv.org/abs/1706.03762)
 
 
