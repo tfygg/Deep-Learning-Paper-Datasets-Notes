@@ -40,5 +40,8 @@
 
 ## Natural Language Processing
 
+- [Sentiment Classification](https://github.com/tfygg/Deep-Learning-Papers-List/blob/master/SentimentClassification.md)
+
+
 https://github.com/llhthinker/NLP-Papers
 
