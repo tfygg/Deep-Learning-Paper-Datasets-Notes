@@ -1,11 +1,17 @@
-## NLP
+##  hard & soft attention
 1. - [ ] Xu, Kelvin, et al.  "**Show, attend and tell: Neural image caption generation with visual attention**." arxiv(2015).[pdf](arXiv preprint arXiv:1502.03044)
 
 
-## Classificion
-1. - [ ] Fu, Jianlong, H. Zheng, and T. Mei. "**Look Closer to See Better: Recurrent Attention Convolutional Neural Network for Fine-Grained Image Recognition**." CVPR(2017).[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)
+## global & local attention
+1. - [ ] Minh-Thang Luong, Hieu Pham, Christopher D. Manning "**Effective Approaches to Attention-based Neural Machine Translation**." arxiv(2015).[[pdf]](https://arxiv.org/abs/1508.04025v3)
 
-1. - [ ] Wang, Fei, et al. "**Residual Attention Network for Image Classification**." CVPR(2017).[pdf](http://cn.arxiv.org/abs/1704.06904)
+## Self Attention
+1. - [ ] Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio. "**A Structured Self-attentive Sentence Embedding**." arxiv(2017).[[pdf]](https://arxiv.org/abs/1703.03130)[[github]](https://github.com/kaushalshetty/Structured-Self-Attention)
+
+1. - [ ] Jianpeng Cheng, Li Dong and Mirella Lapata. "**Long Short-Term Memory-Networks for Machine Reading**." arxiv(2016).[[pdf]](https://arxiv.org/abs/1601.06733)
+
+1. - [ ] Minh-Thang Luong, Hieu Pham, Christopher D. Manning "**Attention Is All You Need**." arxiv(2017).[[pdf]](https://arxiv.org/abs/1706.03762)
+
 
 ## Detection
 1. - [x] Jianfeng Wang, Ye Yuan, Gang Yu. "**Face Attention Network: An effective Face Detector for the Occluded Faces**." CVPR(2017). [[pdf]](https://arxiv.org/abs/1711.07246)(**FAN**)
