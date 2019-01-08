@@ -99,9 +99,9 @@
 ## Caption
 1. - [ ] Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio. "**Explain Images with Multimodal Recurrent Neural Networks**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1406.1078) (**Encoder-Decoder**)
 
-1. - [ ] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. "**Show and Tell: A Neural Image Caption Generator**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1411.4555) (**NIC**)
+1. - [x] Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. "**Show and Tell: A Neural Image Caption Generator**." arxiv (2014). [[pdf]](https://arxiv.org/abs/1411.4555) (**NIC**)
 
-1. - [ ] Kelvin Xu, Jimmy Ba, Ryan Kiros, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio. "**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**." arxiv (2015). [[pdf]](https://arxiv.org/abs/1502.03044v1) (**ShowAttTell**)
+1. - [x] Kelvin Xu, Jimmy Ba, Ryan Kiros, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio. "**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**." arxiv (2015). [[pdf]](https://arxiv.org/abs/1502.03044v1) (**ShowAttTell**)
 
 
 
