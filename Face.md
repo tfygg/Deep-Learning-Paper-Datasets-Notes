@@ -110,8 +110,13 @@
 
 1. - [x] Amin Jourabloo, Yaojie Liu, Xiaoming Liu. "**Face De-Spoofing: Anti-Spoofing via Noise Modeling**." ECCV(2018). [[pdf]](https://arxiv.org/abs/1807.09968)
 
-1. - [x] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li. "**CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-Spoofing**." arXic(2018)(**CASIA-SURF**). [[pdf]](http://export.arxiv.org/abs/1812.00408?from=timeline)
+1. - [x] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li. "**CASIA-SURF: A Dataset and Benchmark for Large-scale Multi-modal Face Anti-Spoofing**." CVPR(2019)(**CASIA-SURF**). [[pdf]](http://export.arxiv.org/abs/1812.00408?from=timeline)
 
+1. - [x] Parkin, Aleksandr and Grinchuk, Oleg. "**Recognizing Multi-Modal Face Spoofing with Face Recognition Networks**." CVPRW(2019)(**SENet**). [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CFS/Parkin_Recognizing_Multi-Modal_Face_Spoofing_With_Face_Recognition_Networks_CVPRW_2019_paper.pdf)[[github]](https://github.com/AlexanderParkin/ChaLearn_liveness_challenge)
+
+1. - [x] Shen, Tao and Huang, Yuyu and Tong, Zhijun. "**FaceBagNet: Bag-of-local-features Model for Multi-modal Face Anti-spoofing**." CVPRW(2019)(**FaceBagNet**). [[pdf]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CFS/Shen_FaceBagNet_Bag-Of-Local-Features_Model_for_Multi-Modal_Face_Anti-Spoofing_CVPRW_2019_paper.pdf)[[github]](https://github.com/SeuTao/CVPR19-Face-Anti-spoofing)
+
+1. - [x] Peng Zhang et al. "**FeatherNets: Convolutional Neural Networks as Ligh as Feather for Face Anti-spoofing**." CVPRW(2019)(**FeatherNets**). [[pdf]](https://arxiv.org/pdf/1904.09290.pdf)[[github]](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
