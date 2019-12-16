@@ -118,6 +118,10 @@
 
 1. - [x] Peng Zhang et al. "**FeatherNets: Convolutional Neural Networks as Ligh as Feather for Face Anti-spoofing**." CVPRW(2019)(**FeatherNets**). [[pdf]](https://arxiv.org/pdf/1904.09290.pdf)[[github]](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 
+1. - [ ] Yang, Xiao and Luo, Wenhan and Bao, Linchao and Gao, Yuan and Gong, Dihong and Zheng, Shibao and Li, Zhifeng and Liu, Wei. "**Face Anti-Spoofing: Model Matters, so Does Data**." CVPRW(2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Face_Anti-Spoofing_Model_Matters_so_Does_Data_CVPR_2019_paper.html)
+
+1. - [ ] Shao, Rui and Lan, Xiangyuan and Li, Jiawei and Yuen, Pong C. "**Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection**." CVPRW(2019). [[pdf]]（http://openaccess.thecvf.com/content_CVPR_2019/html/Shao_Multi-Adversarial_Discriminative_Deep_Domain_Generalization_for_Face_Presentation_Attack_Detection_CVPR_2019_paper.html)
+
 ## Recognition
 1. - [x] Liu, Weiyang, et al. "**FaceNet: A Unified Embedding for Face Recognition and Clustering**." (2017). CVPR(2015). [[pdf]](https://arxiv.org/abs/1503.03832) (**FaceNet**)
 
